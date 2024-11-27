@@ -19,9 +19,17 @@ def calculate_body_measurements(landmarks):
     }
     return measurements
 
-# Inicializa o Mediapipe Pose
+# Função para verificar se a mão está aberta
+def is_hand_open(hand_landmarks):
+    # Pontos chave: ponta do dedo 4 (dedo médio) e base do dedo 0 (pulso)
+    # Se a ponta do dedo está significativamente mais longe do pulso, consideramos a mão aberta
+    return calculate_distance(hand_landmarks[0], hand_landmarks[9]) > 0.2
+
+# Inicializa o Mediapipe Pose e Hands
 mp_pose = mp.solutions.pose
+mp_hands = mp.solutions.hands
 pose = mp_pose.Pose()
+hands = mp_hands.Hands()
 mp_drawing = mp.solutions.drawing_utils
 
 # Acessa a webcam
@@ -34,14 +42,15 @@ while cap.isOpened():
     
     # Processa o frame
     rgb_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-    results = pose.process(rgb_frame)
+    results_pose = pose.process(rgb_frame)
+    results_hands = hands.process(rgb_frame)
     
-    if results.pose_landmarks:
+    if results_pose.pose_landmarks:
         # Desenha landmarks no frame
-        mp_drawing.draw_landmarks(frame, results.pose_landmarks, mp_pose.POSE_CONNECTIONS)
+        mp_drawing.draw_landmarks(frame, results_pose.pose_landmarks, mp_pose.POSE_CONNECTIONS)
         
         # Calcula medidas corporais
-        landmarks = results.pose_landmarks.landmark
+        landmarks = results_pose.pose_landmarks.landmark
         measurements = calculate_body_measurements(landmarks)
         
         # Exibe as medidas na tela
@@ -51,12 +60,15 @@ while cap.isOpened():
                         cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 255), 2)
             y_offset += 30
         
-        # Captura as medidas ao pressionar 'p'
-        key = cv2.waitKey(1) & 0xFF
-        if key == ord('p'):
-            print("\nMedidas capturadas:")
-            for name, value in measurements.items():
-                print(f"{name}: {value:.2f}")
+        # Verifica se há landmarks de mão e detecta o gesto
+        if results_hands.multi_hand_landmarks:
+            for hand_landmarks in results_hands.multi_hand_landmarks:
+                if is_hand_open(hand_landmarks.landmark):
+                    print("\nMedidas capturadas:")
+                    for name, value in measurements.items():
+                        print(f"{name}: {value:.2f}")
+                    # Desenha os landmarks da mão
+                    mp_drawing.draw_landmarks(frame, hand_landmarks, mp_hands.HAND_CONNECTIONS)
     
     # Mostra o frame com informações
     cv2.imshow('Real-time Body Measurements', frame)
