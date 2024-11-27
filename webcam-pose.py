@@ -19,11 +19,13 @@ def calculate_body_measurements(landmarks):
     }
     return measurements
 
-# Função para verificar se a mão está aberta
-def is_hand_open(hand_landmarks):
-    # Pontos chave: ponta do dedo 4 (dedo médio) e base do dedo 0 (pulso)
-    # Se a ponta do dedo está significativamente mais longe do pulso, consideramos a mão aberta
-    return calculate_distance(hand_landmarks[0], hand_landmarks[9]) > 0.2
+# Função para verificar se a mão está fechada
+def is_hand_closed(hand_landmarks):
+    # Pontos chave: ponta dos dedos (4, 8, 12, 16, 20) e base do dedo 0 (pulso)
+    # Se todas as pontas dos dedos estão próximas do pulso, consideramos a mão fechada
+    closed = calculate_distance(hand_landmarks[0], hand_landmarks[9]) < 0.2 
+         
+    return closed
 
 # Inicializa o Mediapipe Pose e Hands
 mp_pose = mp.solutions.pose
@@ -57,16 +59,20 @@ while cap.isOpened():
         y_offset = 30
         for name, value in measurements.items():
             cv2.putText(frame, f"{name}: {value:.2f}", (10, y_offset), 
-                        cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 255), 2)
+                        cv2.FONT_HERSHEY_SIMPLEX, 1.2, (255, 255, 255), 2)
             y_offset += 30
         
-        # Verifica se há landmarks de mão e detecta o gesto
+        # Verifica se há landmarks de mão e detecta o gesto de mão fechada
         if results_hands.multi_hand_landmarks:
             for hand_landmarks in results_hands.multi_hand_landmarks:
-                if is_hand_open(hand_landmarks.landmark):
-                    print("\nMedidas capturadas:")
-                    for name, value in measurements.items():
-                        print(f"{name}: {value:.2f}")
+                if is_hand_closed(hand_landmarks.landmark):
+                    # Salva as medidas em um arquivo
+                    with open("medidas_capturadas.txt", "a") as file:
+                        file.write("Medidas capturadas:\n")
+                        for name, value in measurements.items():
+                            file.write(f"{name}: {value:.2f}\n")
+                        file.write("\n")
+                    print("Medidas salvas no arquivo 'medidas_capturadas.txt'")
                     # Desenha os landmarks da mão
                     mp_drawing.draw_landmarks(frame, hand_landmarks, mp_hands.HAND_CONNECTIONS)
     

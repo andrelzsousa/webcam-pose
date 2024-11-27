@@ -1,0 +1,351 @@
+Medidas capturadas:
+Altura: 2.85
+Braço esquerdo: 1.11
+Braço direito: 1.30
+Perna esquerda: 1.40
+Perna direita: 1.37
+Largura dos ombros: 0.35
+Tronco: 1.01
+
+Medidas capturadas:
+Altura: 2.89
+Braço esquerdo: 1.19
+Braço direito: 1.36
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.36
+Tronco: 1.03
+
+Medidas capturadas:
+Altura: 2.89
+Braço esquerdo: 1.19
+Braço direito: 1.36
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.36
+Tronco: 1.03
+
+Medidas capturadas:
+Altura: 2.90
+Braço esquerdo: 1.17
+Braço direito: 1.38
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.36
+Tronco: 1.04
+
+Medidas capturadas:
+Altura: 2.90
+Braço esquerdo: 1.17
+Braço direito: 1.38
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.36
+Tronco: 1.04
+
+Medidas capturadas:
+Altura: 2.89
+Braço esquerdo: 1.18
+Braço direito: 1.36
+Perna esquerda: 1.41
+Perna direita: 1.38
+Largura dos ombros: 0.36
+Tronco: 1.05
+
+Medidas capturadas:
+Altura: 2.89
+Braço esquerdo: 1.18
+Braço direito: 1.36
+Perna esquerda: 1.41
+Perna direita: 1.38
+Largura dos ombros: 0.36
+Tronco: 1.05
+
+Medidas capturadas:
+Altura: 2.88
+Braço esquerdo: 1.16
+Braço direito: 1.37
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.36
+Tronco: 1.04
+
+Medidas capturadas:
+Altura: 2.88
+Braço esquerdo: 1.16
+Braço direito: 1.37
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.36
+Tronco: 1.04
+
+Medidas capturadas:
+Altura: 2.88
+Braço esquerdo: 1.18
+Braço direito: 1.37
+Perna esquerda: 1.41
+Perna direita: 1.38
+Largura dos ombros: 0.36
+Tronco: 1.05
+
+Medidas capturadas:
+Altura: 2.88
+Braço esquerdo: 1.18
+Braço direito: 1.37
+Perna esquerda: 1.41
+Perna direita: 1.38
+Largura dos ombros: 0.36
+Tronco: 1.05
+
+Medidas capturadas:
+Altura: 2.89
+Braço esquerdo: 1.16
+Braço direito: 1.37
+Perna esquerda: 1.41
+Perna direita: 1.38
+Largura dos ombros: 0.37
+Tronco: 1.07
+
+Medidas capturadas:
+Altura: 2.89
+Braço esquerdo: 1.16
+Braço direito: 1.37
+Perna esquerda: 1.41
+Perna direita: 1.38
+Largura dos ombros: 0.37
+Tronco: 1.07
+
+Medidas capturadas:
+Altura: 2.90
+Braço esquerdo: 1.16
+Braço direito: 1.37
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.37
+Tronco: 1.09
+
+Medidas capturadas:
+Altura: 2.90
+Braço esquerdo: 1.16
+Braço direito: 1.37
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.37
+Tronco: 1.09
+
+Medidas capturadas:
+Altura: 2.91
+Braço esquerdo: 1.18
+Braço direito: 1.37
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.37
+Tronco: 1.09
+
+Medidas capturadas:
+Altura: 2.91
+Braço esquerdo: 1.18
+Braço direito: 1.37
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.37
+Tronco: 1.09
+
+Medidas capturadas:
+Altura: 2.90
+Braço esquerdo: 1.06
+Braço direito: 1.33
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.38
+Tronco: 1.09
+
+Medidas capturadas:
+Altura: 2.90
+Braço esquerdo: 1.06
+Braço direito: 1.33
+Perna esquerda: 1.42
+Perna direita: 1.38
+Largura dos ombros: 0.38
+Tronco: 1.09
+
+Medidas capturadas:
+Altura: 2.87
+Braço esquerdo: 1.06
+Braço direito: 1.33
+Perna esquerda: 1.41
+Perna direita: 1.38
+Largura dos ombros: 0.37
+Tronco: 1.05
+
+Medidas capturadas:
+Altura: 2.87
+Braço esquerdo: 1.06
+Braço direito: 1.33
+Perna esquerda: 1.41
+Perna direita: 1.38
+Largura dos ombros: 0.37
+Tronco: 1.05
+
+Medidas capturadas:
+Altura: 2.85
+Braço esquerdo: 1.09
+Braço direito: 1.36
+Perna esquerda: 1.40
+Perna direita: 1.37
+Largura dos ombros: 0.37
+Tronco: 1.04
+
+Medidas capturadas:
+Altura: 2.85
+Braço esquerdo: 1.09
+Braço direito: 1.36
+Perna esquerda: 1.40
+Perna direita: 1.37
+Largura dos ombros: 0.37
+Tronco: 1.04
+
+Medidas capturadas:
+Altura: 2.86
+Braço esquerdo: 1.11
+Braço direito: 1.35
+Perna esquerda: 1.41
+Perna direita: 1.37
+Largura dos ombros: 0.37
+Tronco: 1.04
+
+Medidas capturadas:
+Altura: 2.86
+Braço esquerdo: 1.11
+Braço direito: 1.35
+Perna esquerda: 1.41
+Perna direita: 1.37
+Largura dos ombros: 0.37
+Tronco: 1.04
+
+Medidas capturadas:
+Altura: 2.98
+Braço esquerdo: 1.20
+Braço direito: 1.38
+Perna esquerda: 1.43
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.15
+
+Medidas capturadas:
+Altura: 2.95
+Braço esquerdo: 1.10
+Braço direito: 1.29
+Perna esquerda: 1.43
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.07
+
+Medidas capturadas:
+Altura: 2.95
+Braço esquerdo: 1.10
+Braço direito: 1.29
+Perna esquerda: 1.43
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.07
+
+Medidas capturadas:
+Altura: 2.94
+Braço esquerdo: 1.08
+Braço direito: 1.32
+Perna esquerda: 1.43
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.05
+
+Medidas capturadas:
+Altura: 2.94
+Braço esquerdo: 1.08
+Braço direito: 1.32
+Perna esquerda: 1.43
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.05
+
+Medidas capturadas:
+Altura: 2.92
+Braço esquerdo: 1.09
+Braço direito: 1.34
+Perna esquerda: 1.43
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.05
+
+Medidas capturadas:
+Altura: 2.92
+Braço esquerdo: 1.09
+Braço direito: 1.34
+Perna esquerda: 1.43
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.05
+
+Medidas capturadas:
+Altura: 2.95
+Braço esquerdo: 1.13
+Braço direito: 1.36
+Perna esquerda: 1.44
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.07
+
+Medidas capturadas:
+Altura: 2.95
+Braço esquerdo: 1.13
+Braço direito: 1.36
+Perna esquerda: 1.44
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.07
+
+Medidas capturadas:
+Altura: 2.97
+Braço esquerdo: 1.11
+Braço direito: 1.35
+Perna esquerda: 1.44
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.08
+
+Medidas capturadas:
+Altura: 2.97
+Braço esquerdo: 1.11
+Braço direito: 1.35
+Perna esquerda: 1.44
+Perna direita: 1.41
+Largura dos ombros: 0.36
+Tronco: 1.08
+
+Medidas capturadas:
+Altura: 2.84
+Braço esquerdo: 1.13
+Braço direito: 1.39
+Perna esquerda: 1.37
+Perna direita: 1.37
+Largura dos ombros: 0.35
+Tronco: 1.00
+
+Medidas capturadas:
+Altura: 3.41
+Braço esquerdo: 0.95
+Braço direito: 1.55
+Perna esquerda: 1.70
+Perna direita: 1.75
+Largura dos ombros: 0.46
+Tronco: 1.16
+
+Medidas capturadas:
+Altura: 3.46
+Braço esquerdo: 0.96
+Braço direito: 1.45
+Perna esquerda: 1.69
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.18
+
