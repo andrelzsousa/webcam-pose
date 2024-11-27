@@ -50,6 +50,13 @@ while cap.isOpened():
             cv2.putText(frame, f"{name}: {value:.2f}", (10, y_offset), 
                         cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 255), 2)
             y_offset += 30
+        
+        # Captura as medidas ao pressionar 'p'
+        key = cv2.waitKey(1) & 0xFF
+        if key == ord('p'):
+            print("\nMedidas capturadas:")
+            for name, value in measurements.items():
+                print(f"{name}: {value:.2f}")
     
     # Mostra o frame com informações
     cv2.imshow('Real-time Body Measurements', frame)
