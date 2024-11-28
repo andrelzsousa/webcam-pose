@@ -1,0 +1,9460 @@
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.75
+Braço esquerdo: 1.11
+Braço direito: 1.17
+Perna esquerda: 1.95
+Perna direita: 1.94
+Largura dos ombros: 0.43
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.70
+Braço esquerdo: 1.07
+Braço direito: 1.45
+Perna esquerda: 1.93
+Perna direita: 1.91
+Largura dos ombros: 0.41
+Tronco: 1.16
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.59
+Braço esquerdo: 0.97
+Braço direito: 1.26
+Perna esquerda: 1.86
+Perna direita: 1.84
+Largura dos ombros: 0.41
+Tronco: 1.14
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.58
+Braço esquerdo: 1.03
+Braço direito: 1.38
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.40
+Tronco: 1.14
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.53
+Braço esquerdo: 0.94
+Braço direito: 1.22
+Perna esquerda: 1.82
+Perna direita: 1.79
+Largura dos ombros: 0.40
+Tronco: 1.13
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.50
+Braço esquerdo: 0.99
+Braço direito: 1.30
+Perna esquerda: 1.80
+Perna direita: 1.78
+Largura dos ombros: 0.39
+Tronco: 1.12
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.49
+Braço esquerdo: 0.95
+Braço direito: 1.14
+Perna esquerda: 1.80
+Perna direita: 1.78
+Largura dos ombros: 0.39
+Tronco: 1.11
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.49
+Braço esquerdo: 1.02
+Braço direito: 1.15
+Perna esquerda: 1.80
+Perna direita: 1.78
+Largura dos ombros: 0.39
+Tronco: 1.12
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.49
+Braço esquerdo: 1.05
+Braço direito: 1.40
+Perna esquerda: 1.79
+Perna direita: 1.78
+Largura dos ombros: 0.39
+Tronco: 1.12
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.49
+Braço esquerdo: 1.07
+Braço direito: 1.12
+Perna esquerda: 1.78
+Perna direita: 1.77
+Largura dos ombros: 0.40
+Tronco: 1.13
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.45
+Braço esquerdo: 1.07
+Braço direito: 1.34
+Perna esquerda: 1.76
+Perna direita: 1.75
+Largura dos ombros: 0.39
+Tronco: 1.11
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.44
+Braço esquerdo: 1.06
+Braço direito: 1.33
+Perna esquerda: 1.76
+Perna direita: 1.75
+Largura dos ombros: 0.39
+Tronco: 1.11
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.44
+Braço esquerdo: 0.98
+Braço direito: 1.11
+Perna esquerda: 1.76
+Perna direita: 1.75
+Largura dos ombros: 0.39
+Tronco: 1.11
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.43
+Braço esquerdo: 0.89
+Braço direito: 1.07
+Perna esquerda: 1.75
+Perna direita: 1.74
+Largura dos ombros: 0.39
+Tronco: 1.11
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.43
+Braço esquerdo: 0.84
+Braço direito: 1.11
+Perna esquerda: 1.75
+Perna direita: 1.74
+Largura dos ombros: 0.39
+Tronco: 1.11
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.43
+Braço esquerdo: 0.97
+Braço direito: 1.28
+Perna esquerda: 1.75
+Perna direita: 1.74
+Largura dos ombros: 0.39
+Tronco: 1.11
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.43
+Braço esquerdo: 1.02
+Braço direito: 1.29
+Perna esquerda: 1.74
+Perna direita: 1.73
+Largura dos ombros: 0.39
+Tronco: 1.12
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.43
+Braço esquerdo: 1.05
+Braço direito: 1.43
+Perna esquerda: 1.74
+Perna direita: 1.73
+Largura dos ombros: 0.39
+Tronco: 1.13
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.43
+Braço esquerdo: 0.88
+Braço direito: 1.32
+Perna esquerda: 1.74
+Perna direita: 1.73
+Largura dos ombros: 0.39
+Tronco: 1.12
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.46
+Braço esquerdo: 0.91
+Braço direito: 1.02
+Perna esquerda: 1.74
+Perna direita: 1.72
+Largura dos ombros: 0.42
+Tronco: 1.13
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.49
+Braço esquerdo: 0.98
+Braço direito: 1.09
+Perna esquerda: 1.74
+Perna direita: 1.72
+Largura dos ombros: 0.42
+Tronco: 1.16
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.50
+Braço esquerdo: 1.17
+Braço direito: 1.27
+Perna esquerda: 1.74
+Perna direita: 1.72
+Largura dos ombros: 0.42
+Tronco: 1.16
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.51
+Braço esquerdo: 1.13
+Braço direito: 1.28
+Perna esquerda: 1.75
+Perna direita: 1.72
+Largura dos ombros: 0.42
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.51
+Braço esquerdo: 1.04
+Braço direito: 1.18
+Perna esquerda: 1.76
+Perna direita: 1.72
+Largura dos ombros: 0.42
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.51
+Braço esquerdo: 0.82
+Braço direito: 1.17
+Perna esquerda: 1.76
+Perna direita: 1.73
+Largura dos ombros: 0.43
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.51
+Braço esquerdo: 0.90
+Braço direito: 1.21
+Perna esquerda: 1.76
+Perna direita: 1.73
+Largura dos ombros: 0.43
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.55
+Braço esquerdo: 1.43
+Braço direito: 1.71
+Perna esquerda: 1.77
+Perna direita: 1.74
+Largura dos ombros: 0.42
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.60
+Braço esquerdo: 1.22
+Braço direito: 1.75
+Perna esquerda: 1.79
+Perna direita: 1.79
+Largura dos ombros: 0.44
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.64
+Braço esquerdo: 0.96
+Braço direito: 1.72
+Perna esquerda: 1.80
+Perna direita: 1.84
+Largura dos ombros: 0.44
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.62
+Braço esquerdo: 0.99
+Braço direito: 1.58
+Perna esquerda: 1.80
+Perna direita: 1.80
+Largura dos ombros: 0.43
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.65
+Braço esquerdo: 1.27
+Braço direito: 1.56
+Perna esquerda: 1.82
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.65
+Braço esquerdo: 1.34
+Braço direito: 1.49
+Perna esquerda: 1.83
+Perna direita: 1.80
+Largura dos ombros: 0.43
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.26
+Braço direito: 1.55
+Perna esquerda: 1.83
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.65
+Braço esquerdo: 1.27
+Braço direito: 1.53
+Perna esquerda: 1.83
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.64
+Braço esquerdo: 1.27
+Braço direito: 1.50
+Perna esquerda: 1.82
+Perna direita: 1.82
+Largura dos ombros: 0.43
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.65
+Braço esquerdo: 1.29
+Braço direito: 1.53
+Perna esquerda: 1.83
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.64
+Braço esquerdo: 1.28
+Braço direito: 1.57
+Perna esquerda: 1.82
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.64
+Braço esquerdo: 1.20
+Braço direito: 1.54
+Perna esquerda: 1.81
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.65
+Braço esquerdo: 1.19
+Braço direito: 1.54
+Perna esquerda: 1.80
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.24
+Braço direito: 1.53
+Perna esquerda: 1.80
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.67
+Braço esquerdo: 1.35
+Braço direito: 1.55
+Perna esquerda: 1.81
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.45
+Braço direito: 1.64
+Perna esquerda: 1.81
+Perna direita: 1.80
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.43
+Braço direito: 1.58
+Perna esquerda: 1.82
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.70
+Braço esquerdo: 1.45
+Braço direito: 1.62
+Perna esquerda: 1.82
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.24
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.73
+Braço esquerdo: 1.43
+Braço direito: 1.61
+Perna esquerda: 1.83
+Perna direita: 1.81
+Largura dos ombros: 0.44
+Tronco: 1.28
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.72
+Braço esquerdo: 1.39
+Braço direito: 1.59
+Perna esquerda: 1.83
+Perna direita: 1.80
+Largura dos ombros: 0.44
+Tronco: 1.27
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.72
+Braço esquerdo: 1.32
+Braço direito: 1.59
+Perna esquerda: 1.83
+Perna direita: 1.80
+Largura dos ombros: 0.44
+Tronco: 1.27
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.72
+Braço esquerdo: 1.36
+Braço direito: 1.61
+Perna esquerda: 1.83
+Perna direita: 1.80
+Largura dos ombros: 0.44
+Tronco: 1.27
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.72
+Braço esquerdo: 1.34
+Braço direito: 1.61
+Perna esquerda: 1.84
+Perna direita: 1.80
+Largura dos ombros: 0.43
+Tronco: 1.26
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.71
+Braço esquerdo: 1.39
+Braço direito: 1.61
+Perna esquerda: 1.84
+Perna direita: 1.80
+Largura dos ombros: 0.43
+Tronco: 1.26
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.72
+Braço esquerdo: 1.42
+Braço direito: 1.59
+Perna esquerda: 1.84
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.25
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.71
+Braço esquerdo: 1.42
+Braço direito: 1.58
+Perna esquerda: 1.84
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.25
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.34
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.81
+Largura dos ombros: 0.44
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.31
+Braço direito: 1.42
+Perna esquerda: 1.85
+Perna direita: 1.80
+Largura dos ombros: 0.44
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.36
+Braço direito: 1.49
+Perna esquerda: 1.84
+Perna direita: 1.80
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.36
+Braço direito: 1.53
+Perna esquerda: 1.84
+Perna direita: 1.81
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.71
+Braço esquerdo: 1.36
+Braço direito: 1.57
+Perna esquerda: 1.84
+Perna direita: 1.82
+Largura dos ombros: 0.43
+Tronco: 1.23
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.70
+Braço esquerdo: 1.34
+Braço direito: 1.46
+Perna esquerda: 1.85
+Perna direita: 1.82
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.70
+Braço esquerdo: 1.39
+Braço direito: 1.48
+Perna esquerda: 1.85
+Perna direita: 1.82
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.70
+Braço esquerdo: 1.34
+Braço direito: 1.44
+Perna esquerda: 1.85
+Perna direita: 1.82
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.70
+Braço esquerdo: 1.34
+Braço direito: 1.41
+Perna esquerda: 1.85
+Perna direita: 1.82
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.70
+Braço esquerdo: 1.39
+Braço direito: 1.44
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.70
+Braço esquerdo: 1.38
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.21
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.70
+Braço esquerdo: 1.38
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.21
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.33
+Braço direito: 1.44
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.33
+Braço direito: 1.44
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.36
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.36
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.67
+Braço esquerdo: 1.43
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.67
+Braço esquerdo: 1.43
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.46
+Braço direito: 1.47
+Perna esquerda: 1.84
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.46
+Braço direito: 1.47
+Perna esquerda: 1.84
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.46
+Braço direito: 1.45
+Perna esquerda: 1.84
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.46
+Braço direito: 1.45
+Perna esquerda: 1.84
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.42
+Braço direito: 1.43
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.42
+Braço direito: 1.43
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.37
+Braço direito: 1.43
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.37
+Braço direito: 1.43
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.39
+Braço direito: 1.45
+Perna esquerda: 1.84
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.39
+Braço direito: 1.45
+Perna esquerda: 1.84
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.39
+Braço direito: 1.46
+Perna esquerda: 1.84
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.21
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.39
+Braço direito: 1.46
+Perna esquerda: 1.84
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.21
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.71
+Braço esquerdo: 1.39
+Braço direito: 1.46
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.71
+Braço esquerdo: 1.39
+Braço direito: 1.46
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.22
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.36
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.21
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.36
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.43
+Tronco: 1.21
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.39
+Braço direito: 1.49
+Perna esquerda: 1.86
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.21
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.34
+Braço direito: 1.45
+Perna esquerda: 1.86
+Perna direita: 1.82
+Largura dos ombros: 0.44
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.34
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.82
+Largura dos ombros: 0.44
+Tronco: 1.21
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.67
+Braço esquerdo: 1.29
+Braço direito: 1.40
+Perna esquerda: 1.85
+Perna direita: 1.82
+Largura dos ombros: 0.44
+Tronco: 1.20
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.67
+Braço esquerdo: 1.29
+Braço direito: 1.38
+Perna esquerda: 1.85
+Perna direita: 1.82
+Largura dos ombros: 0.44
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.67
+Braço esquerdo: 1.21
+Braço direito: 1.35
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.21
+Braço direito: 1.39
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.30
+Braço direito: 1.42
+Perna esquerda: 1.86
+Perna direita: 1.84
+Largura dos ombros: 0.44
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.30
+Braço direito: 1.42
+Perna esquerda: 1.86
+Perna direita: 1.84
+Largura dos ombros: 0.44
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.24
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.24
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.23
+Braço direito: 1.42
+Perna esquerda: 1.86
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.23
+Braço direito: 1.42
+Perna esquerda: 1.86
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.26
+Braço direito: 1.42
+Perna esquerda: 1.86
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.26
+Braço direito: 1.42
+Perna esquerda: 1.86
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.27
+Braço direito: 1.39
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.27
+Braço direito: 1.39
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.21
+Braço direito: 1.38
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.45
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.21
+Braço direito: 1.38
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.45
+Tronco: 1.18
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.20
+Braço direito: 1.41
+Perna esquerda: 1.85
+Perna direita: 1.85
+Largura dos ombros: 0.45
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 1.20
+Braço direito: 1.41
+Perna esquerda: 1.85
+Perna direita: 1.85
+Largura dos ombros: 0.45
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.22
+Braço direito: 1.42
+Perna esquerda: 1.85
+Perna direita: 1.85
+Largura dos ombros: 0.44
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.22
+Braço direito: 1.42
+Perna esquerda: 1.85
+Perna direita: 1.85
+Largura dos ombros: 0.44
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.25
+Braço direito: 1.46
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.45
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.69
+Braço esquerdo: 1.25
+Braço direito: 1.46
+Perna esquerda: 1.85
+Perna direita: 1.84
+Largura dos ombros: 0.45
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.65
+Braço esquerdo: 1.25
+Braço direito: 1.51
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.65
+Braço esquerdo: 1.25
+Braço direito: 1.51
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.62
+Braço esquerdo: 1.19
+Braço direito: 1.51
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.15
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.61
+Braço esquerdo: 1.44
+Braço direito: 1.56
+Perna esquerda: 1.84
+Perna direita: 1.84
+Largura dos ombros: 0.44
+Tronco: 1.12
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.62
+Braço esquerdo: 1.45
+Braço direito: 1.46
+Perna esquerda: 1.85
+Perna direita: 1.83
+Largura dos ombros: 0.44
+Tronco: 1.13
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.65
+Braço esquerdo: 1.17
+Braço direito: 1.48
+Perna esquerda: 1.84
+Perna direita: 1.83
+Largura dos ombros: 0.43
+Tronco: 1.14
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.68
+Braço esquerdo: 1.16
+Braço direito: 1.59
+Perna esquerda: 1.84
+Perna direita: 1.85
+Largura dos ombros: 0.42
+Tronco: 1.15
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.73
+Braço esquerdo: 1.01
+Braço direito: 1.66
+Perna esquerda: 1.83
+Perna direita: 1.89
+Largura dos ombros: 0.44
+Tronco: 1.16
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.78
+Braço esquerdo: 1.14
+Braço direito: 1.79
+Perna esquerda: 1.83
+Perna direita: 1.91
+Largura dos ombros: 0.44
+Tronco: 1.19
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 0.89
+Braço direito: 1.69
+Perna esquerda: 1.80
+Perna direita: 1.81
+Largura dos ombros: 0.44
+Tronco: 1.16
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.72
+Braço esquerdo: 0.99
+Braço direito: 1.84
+Perna esquerda: 1.79
+Perna direita: 1.88
+Largura dos ombros: 0.44
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.66
+Braço esquerdo: 0.99
+Braço direito: 1.81
+Perna esquerda: 1.77
+Perna direita: 1.82
+Largura dos ombros: 0.45
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.62
+Braço esquerdo: 0.89
+Braço direito: 1.78
+Perna esquerda: 1.77
+Perna direita: 1.79
+Largura dos ombros: 0.46
+Tronco: 1.16
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.64
+Braço esquerdo: 1.36
+Braço direito: 1.73
+Perna esquerda: 1.78
+Perna direita: 1.80
+Largura dos ombros: 0.47
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.63
+Braço esquerdo: 1.17
+Braço direito: 1.68
+Perna esquerda: 1.79
+Perna direita: 1.81
+Largura dos ombros: 0.49
+Tronco: 1.17
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.76
+Braço esquerdo: 1.42
+Braço direito: 1.43
+Perna esquerda: 1.88
+Perna direita: 1.87
+Largura dos ombros: 0.53
+Tronco: 1.27
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.82
+Braço esquerdo: 1.34
+Braço direito: 1.60
+Perna esquerda: 1.90
+Perna direita: 1.87
+Largura dos ombros: 0.54
+Tronco: 1.35
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 4.07
+Braço esquerdo: 1.35
+Braço direito: 1.70
+Perna esquerda: 1.87
+Perna direita: 2.09
+Largura dos ombros: 0.52
+Tronco: 1.39
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 4.26
+Braço esquerdo: 1.38
+Braço direito: 1.68
+Perna esquerda: 1.90
+Perna direita: 2.22
+Largura dos ombros: 0.54
+Tronco: 1.47
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 4.22
+Braço esquerdo: 1.40
+Braço direito: 1.68
+Perna esquerda: 1.89
+Perna direita: 2.21
+Largura dos ombros: 0.54
+Tronco: 1.43
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 4.22
+Braço esquerdo: 1.40
+Braço direito: 1.68
+Perna esquerda: 1.89
+Perna direita: 2.21
+Largura dos ombros: 0.54
+Tronco: 1.43
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 4.06
+Braço esquerdo: 1.24
+Braço direito: 1.46
+Perna esquerda: 1.86
+Perna direita: 2.13
+Largura dos ombros: 0.52
+Tronco: 1.34
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 4.06
+Braço esquerdo: 1.24
+Braço direito: 1.46
+Perna esquerda: 1.86
+Perna direita: 2.13
+Largura dos ombros: 0.52
+Tronco: 1.34
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.91
+Braço esquerdo: 1.25
+Braço direito: 1.51
+Perna esquerda: 1.85
+Perna direita: 2.00
+Largura dos ombros: 0.50
+Tronco: 1.30
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.91
+Braço esquerdo: 1.25
+Braço direito: 1.51
+Perna esquerda: 1.85
+Perna direita: 2.00
+Largura dos ombros: 0.50
+Tronco: 1.30
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.92
+Braço esquerdo: 1.24
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 2.00
+Largura dos ombros: 0.51
+Tronco: 1.30
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.92
+Braço esquerdo: 1.24
+Braço direito: 1.45
+Perna esquerda: 1.85
+Perna direita: 2.00
+Largura dos ombros: 0.51
+Tronco: 1.30
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.99
+Braço esquerdo: 1.19
+Braço direito: 1.49
+Perna esquerda: 1.85
+Perna direita: 2.07
+Largura dos ombros: 0.51
+Tronco: 1.30
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.99
+Braço esquerdo: 1.19
+Braço direito: 1.49
+Perna esquerda: 1.85
+Perna direita: 2.07
+Largura dos ombros: 0.51
+Tronco: 1.30
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.96
+Braço esquerdo: 1.25
+Braço direito: 1.51
+Perna esquerda: 1.85
+Perna direita: 2.04
+Largura dos ombros: 0.51
+Tronco: 1.30
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.96
+Braço esquerdo: 1.25
+Braço direito: 1.51
+Perna esquerda: 1.85
+Perna direita: 2.04
+Largura dos ombros: 0.51
+Tronco: 1.30
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.92
+Braço esquerdo: 1.18
+Braço direito: 1.46
+Perna esquerda: 1.84
+Perna direita: 2.02
+Largura dos ombros: 0.51
+Tronco: 1.29
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.92
+Braço esquerdo: 1.18
+Braço direito: 1.46
+Perna esquerda: 1.84
+Perna direita: 2.02
+Largura dos ombros: 0.51
+Tronco: 1.29
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.89
+Braço esquerdo: 1.20
+Braço direito: 1.45
+Perna esquerda: 1.83
+Perna direita: 2.01
+Largura dos ombros: 0.52
+Tronco: 1.28
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.89
+Braço esquerdo: 1.20
+Braço direito: 1.45
+Perna esquerda: 1.83
+Perna direita: 2.01
+Largura dos ombros: 0.52
+Tronco: 1.28
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.89
+Braço esquerdo: 1.22
+Braço direito: 1.43
+Perna esquerda: 1.83
+Perna direita: 2.01
+Largura dos ombros: 0.52
+Tronco: 1.28
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.89
+Braço esquerdo: 1.22
+Braço direito: 1.43
+Perna esquerda: 1.83
+Perna direita: 2.01
+Largura dos ombros: 0.52
+Tronco: 1.28
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.73
+Braço esquerdo: 1.28
+Braço direito: 1.47
+Perna esquerda: 1.83
+Perna direita: 1.88
+Largura dos ombros: 0.50
+Tronco: 1.24
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.55
+Braço esquerdo: 1.21
+Braço direito: 1.59
+Perna esquerda: 1.82
+Perna direita: 1.79
+Largura dos ombros: 0.46
+Tronco: 1.15
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.55
+Braço esquerdo: 1.21
+Braço direito: 1.59
+Perna esquerda: 1.82
+Perna direita: 1.79
+Largura dos ombros: 0.46
+Tronco: 1.15
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 1.21
+Braço esquerdo: 0.19
+Braço direito: 0.23
+Perna esquerda: 0.25
+Perna direita: 0.28
+Largura dos ombros: 0.93
+Tronco: 1.08
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 1.05
+Braço esquerdo: 0.25
+Braço direito: 0.32
+Perna esquerda: 0.20
+Perna direita: 0.31
+Largura dos ombros: 0.85
+Tronco: 0.94
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 0.76
+Braço esquerdo: 0.27
+Braço direito: 0.44
+Perna esquerda: 0.38
+Perna direita: 0.43
+Largura dos ombros: 1.00
+Tronco: 1.08
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 0.91
+Braço esquerdo: 0.14
+Braço direito: 0.45
+Perna esquerda: 0.32
+Perna direita: 0.34
+Largura dos ombros: 1.01
+Tronco: 1.12
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 0.84
+Braço esquerdo: 0.19
+Braço direito: 0.21
+Perna esquerda: 0.28
+Perna direita: 0.33
+Largura dos ombros: 0.91
+Tronco: 1.08
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 0.68
+Braço esquerdo: 0.17
+Braço direito: 0.14
+Perna esquerda: 0.40
+Perna direita: 0.41
+Largura dos ombros: 0.87
+Tronco: 1.06
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 0.12
+Braço direito: 0.72
+Perna esquerda: 1.12
+Perna direita: 1.15
+Largura dos ombros: 0.61
+Tronco: 0.88
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 0.66
+Braço direito: 0.97
+Perna esquerda: 1.31
+Perna direita: 1.24
+Largura dos ombros: 0.38
+Tronco: 0.74
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 0.61
+Braço direito: 1.01
+Perna esquerda: 1.09
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.59
+Braço esquerdo: 0.58
+Braço direito: 0.45
+Perna esquerda: 1.21
+Perna direita: 1.38
+Largura dos ombros: 0.29
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.68
+Braço esquerdo: 0.59
+Braço direito: 0.47
+Perna esquerda: 1.22
+Perna direita: 1.48
+Largura dos ombros: 0.28
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.73
+Braço esquerdo: 0.56
+Braço direito: 0.44
+Perna esquerda: 1.20
+Perna direita: 1.49
+Largura dos ombros: 0.29
+Tronco: 0.84
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.76
+Braço esquerdo: 0.55
+Braço direito: 0.45
+Perna esquerda: 1.26
+Perna direita: 1.53
+Largura dos ombros: 0.30
+Tronco: 0.85
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.63
+Braço esquerdo: 0.53
+Braço direito: 0.45
+Perna esquerda: 1.17
+Perna direita: 1.42
+Largura dos ombros: 0.29
+Tronco: 0.84
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.60
+Braço esquerdo: 0.53
+Braço direito: 0.44
+Perna esquerda: 1.16
+Perna direita: 1.39
+Largura dos ombros: 0.29
+Tronco: 0.84
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.60
+Braço esquerdo: 0.54
+Braço direito: 0.45
+Perna esquerda: 1.09
+Perna direita: 1.38
+Largura dos ombros: 0.29
+Tronco: 0.84
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.47
+Braço esquerdo: 0.56
+Braço direito: 0.47
+Perna esquerda: 1.12
+Perna direita: 1.31
+Largura dos ombros: 0.28
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.65
+Braço esquerdo: 0.58
+Braço direito: 0.48
+Perna esquerda: 1.23
+Perna direita: 1.51
+Largura dos ombros: 0.28
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.47
+Braço esquerdo: 0.58
+Braço direito: 0.49
+Perna esquerda: 1.09
+Perna direita: 1.31
+Largura dos ombros: 0.28
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.55
+Braço esquerdo: 0.58
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.39
+Largura dos ombros: 0.28
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.61
+Braço esquerdo: 0.58
+Braço direito: 0.47
+Perna esquerda: 1.18
+Perna direita: 1.42
+Largura dos ombros: 0.28
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.71
+Braço esquerdo: 0.58
+Braço direito: 0.46
+Perna esquerda: 1.21
+Perna direita: 1.55
+Largura dos ombros: 0.28
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.73
+Braço esquerdo: 0.58
+Braço direito: 0.45
+Perna esquerda: 1.21
+Perna direita: 1.52
+Largura dos ombros: 0.29
+Tronco: 0.85
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.68
+Braço esquerdo: 0.61
+Braço direito: 0.52
+Perna esquerda: 1.19
+Perna direita: 1.51
+Largura dos ombros: 0.29
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.62
+Braço esquerdo: 0.65
+Braço direito: 0.47
+Perna esquerda: 1.15
+Perna direita: 1.44
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.68
+Braço esquerdo: 0.61
+Braço direito: 0.47
+Perna esquerda: 1.18
+Perna direita: 1.48
+Largura dos ombros: 0.29
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.68
+Braço esquerdo: 0.60
+Braço direito: 0.47
+Perna esquerda: 1.16
+Perna direita: 1.48
+Largura dos ombros: 0.29
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.70
+Braço esquerdo: 0.59
+Braço direito: 0.47
+Perna esquerda: 1.17
+Perna direita: 1.50
+Largura dos ombros: 0.29
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.73
+Braço esquerdo: 0.59
+Braço direito: 0.47
+Perna esquerda: 1.19
+Perna direita: 1.51
+Largura dos ombros: 0.30
+Tronco: 0.86
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.99
+Braço esquerdo: 0.61
+Braço direito: 0.47
+Perna esquerda: 1.40
+Perna direita: 1.74
+Largura dos ombros: 0.31
+Tronco: 0.89
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.90
+Braço esquerdo: 0.61
+Braço direito: 0.47
+Perna esquerda: 1.30
+Perna direita: 1.63
+Largura dos ombros: 0.31
+Tronco: 0.88
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.87
+Braço esquerdo: 0.61
+Braço direito: 0.48
+Perna esquerda: 1.27
+Perna direita: 1.60
+Largura dos ombros: 0.30
+Tronco: 0.87
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.81
+Braço esquerdo: 0.60
+Braço direito: 0.48
+Perna esquerda: 1.22
+Perna direita: 1.58
+Largura dos ombros: 0.31
+Tronco: 0.87
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.79
+Braço esquerdo: 0.61
+Braço direito: 0.53
+Perna esquerda: 1.25
+Perna direita: 1.57
+Largura dos ombros: 0.31
+Tronco: 0.86
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.84
+Braço esquerdo: 0.61
+Braço direito: 0.49
+Perna esquerda: 1.28
+Perna direita: 1.61
+Largura dos ombros: 0.32
+Tronco: 0.88
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.87
+Braço esquerdo: 0.61
+Braço direito: 0.47
+Perna esquerda: 1.29
+Perna direita: 1.59
+Largura dos ombros: 0.31
+Tronco: 0.89
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.79
+Braço esquerdo: 0.61
+Braço direito: 0.49
+Perna esquerda: 1.28
+Perna direita: 1.59
+Largura dos ombros: 0.30
+Tronco: 0.84
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.69
+Braço esquerdo: 0.62
+Braço direito: 0.50
+Perna esquerda: 1.23
+Perna direita: 1.53
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.82
+Braço esquerdo: 0.62
+Braço direito: 0.55
+Perna esquerda: 1.29
+Perna direita: 1.66
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.89
+Braço esquerdo: 0.65
+Braço direito: 0.51
+Perna esquerda: 1.34
+Perna direita: 1.71
+Largura dos ombros: 0.30
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.82
+Braço esquerdo: 0.63
+Braço direito: 0.51
+Perna esquerda: 1.28
+Perna direita: 1.64
+Largura dos ombros: 0.31
+Tronco: 0.84
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.73
+Braço esquerdo: 0.63
+Braço direito: 0.51
+Perna esquerda: 1.23
+Perna direita: 1.54
+Largura dos ombros: 0.30
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.95
+Braço esquerdo: 0.71
+Braço direito: 0.47
+Perna esquerda: 1.37
+Perna direita: 1.71
+Largura dos ombros: 0.34
+Tronco: 0.90
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.03
+Braço esquerdo: 0.65
+Braço direito: 0.48
+Perna esquerda: 1.44
+Perna direita: 1.76
+Largura dos ombros: 0.35
+Tronco: 0.92
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.00
+Braço esquerdo: 0.76
+Braço direito: 0.45
+Perna esquerda: 1.41
+Perna direita: 1.71
+Largura dos ombros: 0.40
+Tronco: 0.94
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 3.00
+Braço esquerdo: 0.79
+Braço direito: 0.45
+Perna esquerda: 1.41
+Perna direita: 1.71
+Largura dos ombros: 0.39
+Tronco: 0.94
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.85
+Braço esquerdo: 0.73
+Braço direito: 0.45
+Perna esquerda: 1.35
+Perna direita: 1.59
+Largura dos ombros: 0.38
+Tronco: 0.92
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.67
+Braço esquerdo: 0.74
+Braço direito: 0.65
+Perna esquerda: 1.38
+Perna direita: 1.45
+Largura dos ombros: 0.34
+Tronco: 0.86
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.12
+Braço direito: 1.11
+Perna esquerda: 1.21
+Perna direita: 1.19
+Largura dos ombros: 0.28
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 0.93
+Braço direito: 0.98
+Perna esquerda: 1.20
+Perna direita: 1.18
+Largura dos ombros: 0.26
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 0.65
+Braço direito: 0.94
+Perna esquerda: 1.21
+Perna direita: 1.18
+Largura dos ombros: 0.25
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 0.65
+Braço direito: 0.94
+Perna esquerda: 1.21
+Perna direita: 1.18
+Largura dos ombros: 0.25
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 0.59
+Braço direito: 1.01
+Perna esquerda: 1.21
+Perna direita: 1.18
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 0.70
+Braço direito: 1.11
+Perna esquerda: 1.21
+Perna direita: 1.17
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 0.70
+Braço direito: 1.11
+Perna esquerda: 1.21
+Perna direita: 1.17
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 0.67
+Braço direito: 1.09
+Perna esquerda: 1.20
+Perna direita: 1.17
+Largura dos ombros: 0.28
+Tronco: 0.74
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.66
+Braço direito: 0.99
+Perna esquerda: 1.19
+Perna direita: 1.16
+Largura dos ombros: 0.27
+Tronco: 0.72
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.66
+Braço direito: 0.99
+Perna esquerda: 1.19
+Perna direita: 1.16
+Largura dos ombros: 0.27
+Tronco: 0.72
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 0.70
+Braço direito: 1.05
+Perna esquerda: 1.19
+Perna direita: 1.18
+Largura dos ombros: 0.26
+Tronco: 0.73
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 0.73
+Braço direito: 1.07
+Perna esquerda: 1.21
+Perna direita: 1.25
+Largura dos ombros: 0.23
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 0.71
+Braço direito: 1.06
+Perna esquerda: 1.19
+Perna direita: 1.19
+Largura dos ombros: 0.23
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.44
+Braço esquerdo: 0.71
+Braço direito: 1.09
+Perna esquerda: 1.21
+Perna direita: 1.31
+Largura dos ombros: 0.26
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 0.69
+Braço direito: 1.10
+Perna esquerda: 1.20
+Perna direita: 1.19
+Largura dos ombros: 0.24
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 0.71
+Braço direito: 1.06
+Perna esquerda: 1.19
+Perna direita: 1.15
+Largura dos ombros: 0.24
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.72
+Braço direito: 0.97
+Perna esquerda: 1.18
+Perna direita: 1.15
+Largura dos ombros: 0.23
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.43
+Braço esquerdo: 0.70
+Braço direito: 1.18
+Perna esquerda: 1.20
+Perna direita: 1.27
+Largura dos ombros: 0.25
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.39
+Braço esquerdo: 0.73
+Braço direito: 1.06
+Perna esquerda: 1.24
+Perna direita: 1.19
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.44
+Braço esquerdo: 0.73
+Braço direito: 1.09
+Perna esquerda: 1.26
+Perna direita: 1.21
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.46
+Braço esquerdo: 0.73
+Braço direito: 1.03
+Perna esquerda: 1.26
+Perna direita: 1.24
+Largura dos ombros: 0.29
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.60
+Braço esquerdo: 0.73
+Braço direito: 1.12
+Perna esquerda: 1.30
+Perna direita: 1.36
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.54
+Braço esquerdo: 0.73
+Braço direito: 1.10
+Perna esquerda: 1.29
+Perna direita: 1.30
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.54
+Braço esquerdo: 0.72
+Braço direito: 1.16
+Perna esquerda: 1.28
+Perna direita: 1.27
+Largura dos ombros: 0.34
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.54
+Braço esquerdo: 0.73
+Braço direito: 1.19
+Perna esquerda: 1.30
+Perna direita: 1.28
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.49
+Braço esquerdo: 0.73
+Braço direito: 1.18
+Perna esquerda: 1.31
+Perna direita: 1.24
+Largura dos ombros: 0.37
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.51
+Braço esquerdo: 0.75
+Braço direito: 1.14
+Perna esquerda: 1.30
+Perna direita: 1.25
+Largura dos ombros: 0.37
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.51
+Braço esquerdo: 0.75
+Braço direito: 1.16
+Perna esquerda: 1.27
+Perna direita: 1.25
+Largura dos ombros: 0.35
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.47
+Braço esquerdo: 0.73
+Braço direito: 1.07
+Perna esquerda: 1.24
+Perna direita: 1.22
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.47
+Braço esquerdo: 0.73
+Braço direito: 1.07
+Perna esquerda: 1.24
+Perna direita: 1.22
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.42
+Braço esquerdo: 0.73
+Braço direito: 1.03
+Perna esquerda: 1.20
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 0.71
+Braço direito: 0.96
+Perna esquerda: 1.18
+Perna direita: 1.17
+Largura dos ombros: 0.36
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.46
+Braço esquerdo: 0.74
+Braço direito: 1.00
+Perna esquerda: 1.21
+Perna direita: 1.22
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.50
+Braço esquerdo: 0.73
+Braço direito: 1.07
+Perna esquerda: 1.30
+Perna direita: 1.25
+Largura dos ombros: 0.37
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.45
+Braço esquerdo: 0.72
+Braço direito: 1.17
+Perna esquerda: 1.28
+Perna direita: 1.21
+Largura dos ombros: 0.43
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.48
+Braço esquerdo: 0.70
+Braço direito: 1.15
+Perna esquerda: 1.29
+Perna direita: 1.24
+Largura dos ombros: 0.42
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.48
+Braço esquerdo: 0.70
+Braço direito: 1.11
+Perna esquerda: 1.28
+Perna direita: 1.23
+Largura dos ombros: 0.40
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.44
+Braço esquerdo: 0.68
+Braço direito: 1.05
+Perna esquerda: 1.24
+Perna direita: 1.19
+Largura dos ombros: 0.39
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.44
+Braço esquerdo: 0.67
+Braço direito: 1.06
+Perna esquerda: 1.24
+Perna direita: 1.20
+Largura dos ombros: 0.39
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.39
+Braço esquerdo: 0.66
+Braço direito: 0.99
+Perna esquerda: 1.21
+Perna direita: 1.18
+Largura dos ombros: 0.40
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 0.67
+Braço direito: 1.01
+Perna esquerda: 1.20
+Perna direita: 1.18
+Largura dos ombros: 0.39
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 0.68
+Braço direito: 1.01
+Perna esquerda: 1.19
+Perna direita: 1.17
+Largura dos ombros: 0.39
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 0.68
+Braço direito: 0.99
+Perna esquerda: 1.18
+Perna direita: 1.17
+Largura dos ombros: 0.37
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.39
+Braço esquerdo: 0.69
+Braço direito: 1.05
+Perna esquerda: 1.22
+Perna direita: 1.19
+Largura dos ombros: 0.35
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 0.70
+Braço direito: 1.13
+Perna esquerda: 1.22
+Perna direita: 1.19
+Largura dos ombros: 0.35
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.52
+Braço esquerdo: 0.72
+Braço direito: 1.14
+Perna esquerda: 1.27
+Perna direita: 1.29
+Largura dos ombros: 0.29
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.44
+Braço esquerdo: 0.70
+Braço direito: 1.31
+Perna esquerda: 1.20
+Perna direita: 1.23
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.39
+Braço esquerdo: 0.60
+Braço direito: 1.10
+Perna esquerda: 1.16
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 0.60
+Braço direito: 0.54
+Perna esquerda: 1.16
+Perna direita: 1.17
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.42
+Braço esquerdo: 0.61
+Braço direito: 0.60
+Perna esquerda: 1.20
+Perna direita: 1.21
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.41
+Braço esquerdo: 0.62
+Braço direito: 0.56
+Perna esquerda: 1.19
+Perna direita: 1.20
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.43
+Braço esquerdo: 0.64
+Braço direito: 0.55
+Perna esquerda: 1.19
+Perna direita: 1.21
+Largura dos ombros: 0.29
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 0.72
+Braço direito: 0.57
+Perna esquerda: 1.15
+Perna direita: 1.13
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.63
+Braço direito: 0.60
+Perna esquerda: 1.13
+Perna direita: 1.13
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.80
+Braço direito: 0.56
+Perna esquerda: 1.14
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.91
+Braço direito: 0.55
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 0.99
+Braço direito: 0.53
+Perna esquerda: 1.14
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.07
+Braço direito: 0.55
+Perna esquerda: 1.14
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.04
+Braço direito: 0.56
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.04
+Braço direito: 0.56
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.08
+Braço direito: 0.53
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.11
+Braço direito: 1.05
+Perna esquerda: 1.13
+Perna direita: 1.13
+Largura dos ombros: 0.27
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 1.14
+Braço direito: 1.06
+Perna esquerda: 1.15
+Perna direita: 1.13
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 1.14
+Braço direito: 1.06
+Perna esquerda: 1.15
+Perna direita: 1.13
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.20
+Braço esquerdo: 1.15
+Braço direito: 1.08
+Perna esquerda: 1.13
+Perna direita: 1.10
+Largura dos ombros: 0.26
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.17
+Braço direito: 1.14
+Perna esquerda: 1.12
+Perna direita: 1.11
+Largura dos ombros: 0.26
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.15
+Braço direito: 1.10
+Perna esquerda: 1.12
+Perna direita: 1.11
+Largura dos ombros: 0.26
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.20
+Braço esquerdo: 1.16
+Braço direito: 1.09
+Perna esquerda: 1.11
+Perna direita: 1.09
+Largura dos ombros: 0.26
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.19
+Braço esquerdo: 1.16
+Braço direito: 1.10
+Perna esquerda: 1.10
+Perna direita: 1.07
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.19
+Braço esquerdo: 1.13
+Braço direito: 1.07
+Perna esquerda: 1.09
+Perna direita: 1.08
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.12
+Braço direito: 1.06
+Perna esquerda: 1.10
+Perna direita: 1.08
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.12
+Braço direito: 1.06
+Perna esquerda: 1.10
+Perna direita: 1.08
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.11
+Braço direito: 1.06
+Perna esquerda: 1.11
+Perna direita: 1.09
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.11
+Braço direito: 1.06
+Perna esquerda: 1.11
+Perna direita: 1.09
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.10
+Braço direito: 1.06
+Perna esquerda: 1.10
+Perna direita: 1.08
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.10
+Braço direito: 1.06
+Perna esquerda: 1.10
+Perna direita: 1.08
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.10
+Braço direito: 1.06
+Perna esquerda: 1.10
+Perna direita: 1.08
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.10
+Braço direito: 1.06
+Perna esquerda: 1.10
+Perna direita: 1.08
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.08
+Braço direito: 1.07
+Perna esquerda: 1.09
+Perna direita: 1.06
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.08
+Braço direito: 1.07
+Perna esquerda: 1.09
+Perna direita: 1.06
+Largura dos ombros: 0.25
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.09
+Braço direito: 0.99
+Perna esquerda: 1.12
+Perna direita: 1.09
+Largura dos ombros: 0.26
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.06
+Braço direito: 1.02
+Perna esquerda: 1.09
+Perna direita: 1.06
+Largura dos ombros: 0.27
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.17
+Braço direito: 1.29
+Perna esquerda: 1.09
+Perna direita: 1.07
+Largura dos ombros: 0.27
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.19
+Braço esquerdo: 1.24
+Braço direito: 1.16
+Perna esquerda: 1.05
+Perna direita: 1.05
+Largura dos ombros: 0.27
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.19
+Braço esquerdo: 1.24
+Braço direito: 1.16
+Perna esquerda: 1.05
+Perna direita: 1.05
+Largura dos ombros: 0.27
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.16
+Braço esquerdo: 1.16
+Braço direito: 0.58
+Perna esquerda: 1.02
+Perna direita: 1.03
+Largura dos ombros: 0.28
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.16
+Braço esquerdo: 1.16
+Braço direito: 0.58
+Perna esquerda: 1.02
+Perna direita: 1.03
+Largura dos ombros: 0.28
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.08
+Braço esquerdo: 1.18
+Braço direito: 0.54
+Perna esquerda: 0.93
+Perna direita: 0.95
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.08
+Braço esquerdo: 1.18
+Braço direito: 0.54
+Perna esquerda: 0.93
+Perna direita: 0.95
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.10
+Braço esquerdo: 1.15
+Braço direito: 0.56
+Perna esquerda: 0.96
+Perna direita: 0.97
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.10
+Braço esquerdo: 1.15
+Braço direito: 0.56
+Perna esquerda: 0.96
+Perna direita: 0.97
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.11
+Braço esquerdo: 1.14
+Braço direito: 0.58
+Perna esquerda: 0.98
+Perna direita: 0.98
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.11
+Braço esquerdo: 1.14
+Braço direito: 0.58
+Perna esquerda: 0.98
+Perna direita: 0.98
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.12
+Braço esquerdo: 1.13
+Braço direito: 0.56
+Perna esquerda: 0.99
+Perna direita: 1.01
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.12
+Braço esquerdo: 1.13
+Braço direito: 0.56
+Perna esquerda: 0.99
+Perna direita: 1.01
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.12
+Braço esquerdo: 1.12
+Braço direito: 0.57
+Perna esquerda: 0.98
+Perna direita: 1.01
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.12
+Braço esquerdo: 1.12
+Braço direito: 0.57
+Perna esquerda: 0.98
+Perna direita: 1.01
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.12
+Braço esquerdo: 1.11
+Braço direito: 0.57
+Perna esquerda: 0.99
+Perna direita: 1.02
+Largura dos ombros: 0.29
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.12
+Braço esquerdo: 1.11
+Braço direito: 0.57
+Perna esquerda: 0.99
+Perna direita: 1.02
+Largura dos ombros: 0.29
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.14
+Braço esquerdo: 1.07
+Braço direito: 0.57
+Perna esquerda: 1.01
+Perna direita: 1.04
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.14
+Braço esquerdo: 1.07
+Braço direito: 0.57
+Perna esquerda: 1.01
+Perna direita: 1.04
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.17
+Braço esquerdo: 1.07
+Braço direito: 0.58
+Perna esquerda: 1.04
+Perna direita: 1.07
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.17
+Braço esquerdo: 1.07
+Braço direito: 0.58
+Perna esquerda: 1.04
+Perna direita: 1.07
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.16
+Braço esquerdo: 1.07
+Braço direito: 0.59
+Perna esquerda: 1.03
+Perna direita: 1.07
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.16
+Braço esquerdo: 1.07
+Braço direito: 0.59
+Perna esquerda: 1.03
+Perna direita: 1.07
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.18
+Braço esquerdo: 1.06
+Braço direito: 0.58
+Perna esquerda: 1.05
+Perna direita: 1.08
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.18
+Braço esquerdo: 1.06
+Braço direito: 0.58
+Perna esquerda: 1.05
+Perna direita: 1.08
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.18
+Braço esquerdo: 1.09
+Braço direito: 0.58
+Perna esquerda: 1.05
+Perna direita: 1.08
+Largura dos ombros: 0.30
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.18
+Braço esquerdo: 1.09
+Braço direito: 0.58
+Perna esquerda: 1.05
+Perna direita: 1.08
+Largura dos ombros: 0.30
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.07
+Braço direito: 0.56
+Perna esquerda: 1.09
+Perna direita: 1.13
+Largura dos ombros: 0.30
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.07
+Braço direito: 0.56
+Perna esquerda: 1.09
+Perna direita: 1.13
+Largura dos ombros: 0.30
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.07
+Braço direito: 0.57
+Perna esquerda: 1.11
+Perna direita: 1.14
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.07
+Braço direito: 0.57
+Perna esquerda: 1.11
+Perna direita: 1.14
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.04
+Braço direito: 0.56
+Perna esquerda: 1.12
+Perna direita: 1.14
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.04
+Braço direito: 0.56
+Perna esquerda: 1.12
+Perna direita: 1.14
+Largura dos ombros: 0.29
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.01
+Braço direito: 0.54
+Perna esquerda: 1.13
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.13
+Braço direito: 1.16
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.21
+Braço direito: 1.22
+Perna esquerda: 1.15
+Perna direita: 1.16
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.21
+Braço direito: 1.22
+Perna esquerda: 1.15
+Perna direita: 1.16
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.26
+Braço direito: 1.25
+Perna esquerda: 1.16
+Perna direita: 1.16
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.26
+Braço direito: 1.25
+Perna esquerda: 1.16
+Perna direita: 1.16
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.32
+Braço direito: 1.28
+Perna esquerda: 1.15
+Perna direita: 1.16
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.32
+Braço direito: 1.28
+Perna esquerda: 1.15
+Perna direita: 1.16
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.33
+Braço direito: 1.29
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.33
+Braço direito: 1.29
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.32
+Braço direito: 1.32
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.32
+Braço direito: 1.32
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.30
+Braço direito: 1.25
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.30
+Braço direito: 1.25
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.32
+Braço direito: 1.33
+Perna esquerda: 1.14
+Perna direita: 1.14
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.32
+Braço direito: 1.33
+Perna esquerda: 1.14
+Perna direita: 1.14
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.34
+Braço direito: 1.32
+Perna esquerda: 1.14
+Perna direita: 1.13
+Largura dos ombros: 0.27
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.34
+Braço direito: 1.32
+Perna esquerda: 1.14
+Perna direita: 1.13
+Largura dos ombros: 0.27
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.35
+Braço direito: 1.35
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.35
+Braço direito: 1.35
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.34
+Braço direito: 1.36
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.27
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.34
+Braço direito: 1.36
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.27
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.33
+Braço direito: 1.30
+Perna esquerda: 1.14
+Perna direita: 1.14
+Largura dos ombros: 0.27
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.33
+Braço direito: 1.30
+Perna esquerda: 1.14
+Perna direita: 1.14
+Largura dos ombros: 0.27
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.35
+Braço direito: 1.35
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.27
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.35
+Braço direito: 1.35
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.27
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.33
+Braço direito: 1.32
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.33
+Braço direito: 1.32
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.33
+Braço direito: 1.32
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.33
+Braço direito: 1.32
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.33
+Braço direito: 1.32
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.33
+Braço direito: 1.32
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.28
+Braço direito: 1.31
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.28
+Braço direito: 1.31
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.27
+Braço direito: 1.28
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.27
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.27
+Braço direito: 1.28
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.27
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.28
+Braço direito: 1.28
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.27
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.28
+Braço direito: 1.28
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.27
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.25
+Braço direito: 1.22
+Perna esquerda: 1.16
+Perna direita: 1.16
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.25
+Braço direito: 1.22
+Perna esquerda: 1.16
+Perna direita: 1.16
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.23
+Braço direito: 1.22
+Perna esquerda: 1.17
+Perna direita: 1.16
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.23
+Braço direito: 1.22
+Perna esquerda: 1.17
+Perna direita: 1.16
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.21
+Braço direito: 1.22
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.21
+Braço direito: 1.22
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.20
+Braço direito: 1.15
+Perna esquerda: 1.17
+Perna direita: 1.16
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.20
+Braço direito: 1.15
+Perna esquerda: 1.17
+Perna direita: 1.16
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.19
+Braço direito: 1.16
+Perna esquerda: 1.17
+Perna direita: 1.16
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.19
+Braço direito: 1.16
+Perna esquerda: 1.17
+Perna direita: 1.16
+Largura dos ombros: 0.26
+Tronco: 0.75
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.27
+Braço direito: 1.23
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.27
+Braço direito: 1.23
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.17
+Braço direito: 1.07
+Perna esquerda: 1.17
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.17
+Braço direito: 1.07
+Perna esquerda: 1.17
+Perna direita: 1.15
+Largura dos ombros: 0.26
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.07
+Braço direito: 0.78
+Perna esquerda: 1.16
+Perna direita: 1.16
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.07
+Braço direito: 0.78
+Perna esquerda: 1.16
+Perna direita: 1.16
+Largura dos ombros: 0.27
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.05
+Braço direito: 0.74
+Perna esquerda: 1.14
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.05
+Braço direito: 0.74
+Perna esquerda: 1.14
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.01
+Braço direito: 0.57
+Perna esquerda: 1.13
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.01
+Braço direito: 0.57
+Perna esquerda: 1.13
+Perna direita: 1.15
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.00
+Braço direito: 0.55
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.00
+Braço direito: 0.55
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.02
+Braço direito: 0.54
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.02
+Braço direito: 0.54
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.03
+Braço direito: 0.56
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.03
+Braço direito: 0.56
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.28
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.11
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.13
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.11
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.13
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.10
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.10
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.11
+Braço direito: 0.53
+Perna esquerda: 1.12
+Perna direita: 1.15
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.11
+Braço direito: 0.53
+Perna esquerda: 1.12
+Perna direita: 1.15
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.15
+Braço direito: 0.52
+Perna esquerda: 1.13
+Perna direita: 1.18
+Largura dos ombros: 0.32
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.15
+Braço direito: 0.52
+Perna esquerda: 1.13
+Perna direita: 1.18
+Largura dos ombros: 0.32
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.14
+Braço direito: 0.52
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.14
+Braço direito: 0.52
+Perna esquerda: 1.13
+Perna direita: 1.14
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.20
+Braço direito: 0.52
+Perna esquerda: 1.12
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.20
+Braço direito: 0.52
+Perna esquerda: 1.12
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.22
+Braço direito: 0.47
+Perna esquerda: 1.12
+Perna direita: 1.18
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.22
+Braço direito: 0.47
+Perna esquerda: 1.12
+Perna direita: 1.18
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.23
+Braço direito: 0.51
+Perna esquerda: 1.12
+Perna direita: 1.19
+Largura dos ombros: 0.32
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.23
+Braço direito: 0.51
+Perna esquerda: 1.12
+Perna direita: 1.19
+Largura dos ombros: 0.32
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.28
+Braço direito: 0.52
+Perna esquerda: 1.13
+Perna direita: 1.22
+Largura dos ombros: 0.34
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.28
+Braço direito: 0.52
+Perna esquerda: 1.13
+Perna direita: 1.22
+Largura dos ombros: 0.34
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.23
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.23
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.22
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.20
+Largura dos ombros: 0.33
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.22
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.20
+Largura dos ombros: 0.33
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.23
+Braço direito: 0.53
+Perna esquerda: 1.14
+Perna direita: 1.18
+Largura dos ombros: 0.32
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.23
+Braço direito: 0.53
+Perna esquerda: 1.14
+Perna direita: 1.18
+Largura dos ombros: 0.32
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.42
+Braço esquerdo: 1.24
+Braço direito: 0.50
+Perna esquerda: 1.16
+Perna direita: 1.27
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.42
+Braço esquerdo: 1.24
+Braço direito: 0.50
+Perna esquerda: 1.16
+Perna direita: 1.27
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.41
+Braço esquerdo: 1.27
+Braço direito: 0.45
+Perna esquerda: 1.17
+Perna direita: 1.25
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.41
+Braço esquerdo: 1.27
+Braço direito: 0.45
+Perna esquerda: 1.17
+Perna direita: 1.25
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.28
+Braço direito: 0.46
+Perna esquerda: 1.16
+Perna direita: 1.24
+Largura dos ombros: 0.34
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.28
+Braço direito: 0.46
+Perna esquerda: 1.16
+Perna direita: 1.24
+Largura dos ombros: 0.34
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.17
+Braço direito: 0.52
+Perna esquerda: 1.13
+Perna direita: 1.17
+Largura dos ombros: 0.33
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.17
+Braço direito: 0.52
+Perna esquerda: 1.13
+Perna direita: 1.17
+Largura dos ombros: 0.33
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.17
+Braço direito: 0.54
+Perna esquerda: 1.14
+Perna direita: 1.19
+Largura dos ombros: 0.33
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.17
+Braço direito: 0.54
+Perna esquerda: 1.14
+Perna direita: 1.19
+Largura dos ombros: 0.33
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.18
+Braço direito: 0.53
+Perna esquerda: 1.14
+Perna direita: 1.19
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.18
+Braço direito: 0.53
+Perna esquerda: 1.14
+Perna direita: 1.19
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.15
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.16
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.15
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.16
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.15
+Braço direito: 0.51
+Perna esquerda: 1.12
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.15
+Braço direito: 0.51
+Perna esquerda: 1.12
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.15
+Braço direito: 0.54
+Perna esquerda: 1.12
+Perna direita: 1.15
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.15
+Braço direito: 0.54
+Perna esquerda: 1.12
+Perna direita: 1.15
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.17
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.20
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.17
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.20
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.17
+Braço direito: 0.52
+Perna esquerda: 1.16
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.17
+Braço direito: 0.52
+Perna esquerda: 1.16
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.21
+Braço direito: 0.47
+Perna esquerda: 1.17
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.21
+Braço direito: 0.47
+Perna esquerda: 1.17
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.18
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.18
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.08
+Braço direito: 0.47
+Perna esquerda: 1.15
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.08
+Braço direito: 0.47
+Perna esquerda: 1.15
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 0.99
+Braço direito: 0.47
+Perna esquerda: 1.16
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 0.99
+Braço direito: 0.47
+Perna esquerda: 1.16
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.03
+Braço direito: 0.46
+Perna esquerda: 1.19
+Perna direita: 1.22
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.03
+Braço direito: 0.46
+Perna esquerda: 1.19
+Perna direita: 1.22
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.00
+Braço direito: 0.47
+Perna esquerda: 1.19
+Perna direita: 1.22
+Largura dos ombros: 0.33
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.00
+Braço direito: 0.47
+Perna esquerda: 1.19
+Perna direita: 1.22
+Largura dos ombros: 0.33
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.04
+Braço direito: 0.47
+Perna esquerda: 1.17
+Perna direita: 1.20
+Largura dos ombros: 0.33
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.04
+Braço direito: 0.47
+Perna esquerda: 1.17
+Perna direita: 1.20
+Largura dos ombros: 0.33
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.08
+Braço direito: 0.44
+Perna esquerda: 1.17
+Perna direita: 1.22
+Largura dos ombros: 0.33
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.08
+Braço direito: 0.44
+Perna esquerda: 1.17
+Perna direita: 1.22
+Largura dos ombros: 0.33
+Tronco: 0.76
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.03
+Braço direito: 0.45
+Perna esquerda: 1.17
+Perna direita: 1.16
+Largura dos ombros: 0.34
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.03
+Braço direito: 0.45
+Perna esquerda: 1.17
+Perna direita: 1.16
+Largura dos ombros: 0.34
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 0.92
+Braço direito: 0.45
+Perna esquerda: 1.16
+Perna direita: 1.19
+Largura dos ombros: 0.35
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 0.92
+Braço direito: 0.45
+Perna esquerda: 1.16
+Perna direita: 1.19
+Largura dos ombros: 0.35
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 0.96
+Braço direito: 0.46
+Perna esquerda: 1.18
+Perna direita: 1.19
+Largura dos ombros: 0.34
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 0.96
+Braço direito: 0.46
+Perna esquerda: 1.18
+Perna direita: 1.19
+Largura dos ombros: 0.34
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.94
+Braço direito: 0.45
+Perna esquerda: 1.17
+Perna direita: 1.19
+Largura dos ombros: 0.34
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.94
+Braço direito: 0.45
+Perna esquerda: 1.17
+Perna direita: 1.19
+Largura dos ombros: 0.34
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.96
+Braço direito: 0.45
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.35
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.96
+Braço direito: 0.45
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.35
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.97
+Braço direito: 0.47
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.35
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.97
+Braço direito: 0.47
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.35
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.06
+Braço direito: 0.47
+Perna esquerda: 1.19
+Perna direita: 1.27
+Largura dos ombros: 0.40
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.06
+Braço direito: 0.47
+Perna esquerda: 1.19
+Perna direita: 1.27
+Largura dos ombros: 0.40
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.07
+Braço direito: 0.46
+Perna esquerda: 1.18
+Perna direita: 1.24
+Largura dos ombros: 0.38
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.07
+Braço direito: 0.46
+Perna esquerda: 1.18
+Perna direita: 1.24
+Largura dos ombros: 0.38
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.06
+Braço direito: 0.46
+Perna esquerda: 1.15
+Perna direita: 1.24
+Largura dos ombros: 0.37
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.06
+Braço direito: 0.46
+Perna esquerda: 1.15
+Perna direita: 1.24
+Largura dos ombros: 0.37
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.05
+Braço direito: 0.44
+Perna esquerda: 1.13
+Perna direita: 1.23
+Largura dos ombros: 0.37
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.05
+Braço direito: 0.44
+Perna esquerda: 1.13
+Perna direita: 1.23
+Largura dos ombros: 0.37
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.11
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.22
+Largura dos ombros: 0.36
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.11
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.22
+Largura dos ombros: 0.36
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.08
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.20
+Largura dos ombros: 0.36
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.08
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.20
+Largura dos ombros: 0.36
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.10
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.17
+Largura dos ombros: 0.34
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.10
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.17
+Largura dos ombros: 0.34
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.00
+Braço direito: 0.48
+Perna esquerda: 1.11
+Perna direita: 1.16
+Largura dos ombros: 0.35
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.00
+Braço direito: 0.48
+Perna esquerda: 1.11
+Perna direita: 1.16
+Largura dos ombros: 0.35
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.13
+Largura dos ombros: 0.35
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.13
+Largura dos ombros: 0.35
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.05
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.24
+Largura dos ombros: 0.35
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.05
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.24
+Largura dos ombros: 0.35
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.06
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.22
+Largura dos ombros: 0.35
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.06
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.22
+Largura dos ombros: 0.35
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.07
+Braço direito: 0.51
+Perna esquerda: 1.12
+Perna direita: 1.24
+Largura dos ombros: 0.35
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.07
+Braço direito: 0.51
+Perna esquerda: 1.12
+Perna direita: 1.24
+Largura dos ombros: 0.35
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.13
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.19
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.13
+Braço direito: 0.53
+Perna esquerda: 1.13
+Perna direita: 1.19
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.12
+Braço direito: 0.59
+Perna esquerda: 1.12
+Perna direita: 1.21
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.12
+Braço direito: 0.59
+Perna esquerda: 1.12
+Perna direita: 1.21
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.05
+Braço direito: 0.55
+Perna esquerda: 1.11
+Perna direita: 1.18
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.05
+Braço direito: 0.55
+Perna esquerda: 1.11
+Perna direita: 1.18
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.04
+Braço direito: 0.54
+Perna esquerda: 1.11
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.04
+Braço direito: 0.54
+Perna esquerda: 1.11
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.03
+Braço direito: 0.52
+Perna esquerda: 1.12
+Perna direita: 1.13
+Largura dos ombros: 0.32
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.03
+Braço direito: 0.52
+Perna esquerda: 1.12
+Perna direita: 1.13
+Largura dos ombros: 0.32
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.15
+Largura dos ombros: 0.32
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.15
+Largura dos ombros: 0.32
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.07
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.14
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.07
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.14
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.01
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.01
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.07
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.21
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.07
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.21
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.08
+Braço direito: 0.50
+Perna esquerda: 1.11
+Perna direita: 1.18
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.08
+Braço direito: 0.50
+Perna esquerda: 1.11
+Perna direita: 1.18
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.08
+Braço direito: 0.51
+Perna esquerda: 1.11
+Perna direita: 1.20
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.08
+Braço direito: 0.51
+Perna esquerda: 1.11
+Perna direita: 1.20
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.06
+Braço direito: 0.55
+Perna esquerda: 1.10
+Perna direita: 1.15
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.06
+Braço direito: 0.55
+Perna esquerda: 1.10
+Perna direita: 1.15
+Largura dos ombros: 0.34
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.04
+Braço direito: 0.51
+Perna esquerda: 1.10
+Perna direita: 1.11
+Largura dos ombros: 0.35
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.04
+Braço direito: 0.51
+Perna esquerda: 1.10
+Perna direita: 1.11
+Largura dos ombros: 0.35
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.03
+Braço direito: 0.51
+Perna esquerda: 1.11
+Perna direita: 1.13
+Largura dos ombros: 0.35
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.03
+Braço direito: 0.51
+Perna esquerda: 1.11
+Perna direita: 1.13
+Largura dos ombros: 0.35
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.01
+Braço direito: 0.51
+Perna esquerda: 1.10
+Perna direita: 1.11
+Largura dos ombros: 0.34
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.01
+Braço direito: 0.51
+Perna esquerda: 1.10
+Perna direita: 1.11
+Largura dos ombros: 0.34
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.02
+Braço direito: 0.50
+Perna esquerda: 1.10
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.02
+Braço direito: 0.50
+Perna esquerda: 1.10
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.02
+Braço direito: 0.50
+Perna esquerda: 1.11
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.02
+Braço direito: 0.50
+Perna esquerda: 1.11
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 0.99
+Braço direito: 0.49
+Perna esquerda: 1.09
+Perna direita: 1.10
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 0.99
+Braço direito: 0.49
+Perna esquerda: 1.09
+Perna direita: 1.10
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 0.91
+Braço direito: 0.48
+Perna esquerda: 1.10
+Perna direita: 1.10
+Largura dos ombros: 0.35
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 0.91
+Braço direito: 0.48
+Perna esquerda: 1.10
+Perna direita: 1.10
+Largura dos ombros: 0.35
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 0.96
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.11
+Largura dos ombros: 0.35
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 0.96
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.11
+Largura dos ombros: 0.35
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.01
+Braço direito: 0.50
+Perna esquerda: 1.11
+Perna direita: 1.15
+Largura dos ombros: 0.35
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.01
+Braço direito: 0.50
+Perna esquerda: 1.11
+Perna direita: 1.15
+Largura dos ombros: 0.35
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.05
+Braço direito: 0.50
+Perna esquerda: 1.11
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.05
+Braço direito: 0.50
+Perna esquerda: 1.11
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.00
+Braço direito: 0.49
+Perna esquerda: 1.11
+Perna direita: 1.13
+Largura dos ombros: 0.34
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.00
+Braço direito: 0.49
+Perna esquerda: 1.11
+Perna direita: 1.13
+Largura dos ombros: 0.34
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.96
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.17
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.96
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.17
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.00
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.16
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.00
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.16
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 0.99
+Braço direito: 0.51
+Perna esquerda: 1.10
+Perna direita: 1.12
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 0.99
+Braço direito: 0.51
+Perna esquerda: 1.10
+Perna direita: 1.12
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.08
+Braço direito: 0.50
+Perna esquerda: 1.12
+Perna direita: 1.14
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.08
+Braço direito: 0.50
+Perna esquerda: 1.12
+Perna direita: 1.14
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.06
+Braço direito: 0.50
+Perna esquerda: 1.12
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.06
+Braço direito: 0.50
+Perna esquerda: 1.12
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.04
+Braço direito: 0.52
+Perna esquerda: 1.14
+Perna direita: 1.16
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.04
+Braço direito: 0.52
+Perna esquerda: 1.14
+Perna direita: 1.16
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.05
+Braço direito: 0.52
+Perna esquerda: 1.13
+Perna direita: 1.16
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.05
+Braço direito: 0.52
+Perna esquerda: 1.13
+Perna direita: 1.16
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.08
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.16
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.08
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.16
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.07
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.17
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.07
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.17
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.07
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.16
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.07
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.16
+Largura dos ombros: 0.30
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.14
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.14
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.07
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.18
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.07
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.18
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.08
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.14
+Largura dos ombros: 0.31
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.08
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.14
+Largura dos ombros: 0.31
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.09
+Braço direito: 0.48
+Perna esquerda: 1.11
+Perna direita: 1.12
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.09
+Braço direito: 0.48
+Perna esquerda: 1.11
+Perna direita: 1.12
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.08
+Braço direito: 0.48
+Perna esquerda: 1.11
+Perna direita: 1.12
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.08
+Braço direito: 0.48
+Perna esquerda: 1.11
+Perna direita: 1.12
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.06
+Braço direito: 0.48
+Perna esquerda: 1.11
+Perna direita: 1.12
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.06
+Braço direito: 0.48
+Perna esquerda: 1.11
+Perna direita: 1.12
+Largura dos ombros: 0.30
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.04
+Braço direito: 0.48
+Perna esquerda: 1.10
+Perna direita: 1.12
+Largura dos ombros: 0.31
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.04
+Braço direito: 0.48
+Perna esquerda: 1.10
+Perna direita: 1.12
+Largura dos ombros: 0.31
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.04
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.11
+Largura dos ombros: 0.31
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.04
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.11
+Largura dos ombros: 0.31
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.06
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.22
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.06
+Braço direito: 0.49
+Perna esquerda: 1.12
+Perna direita: 1.22
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.05
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.17
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.05
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.17
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.07
+Braço direito: 0.50
+Perna esquerda: 1.11
+Perna direita: 1.17
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.07
+Braço direito: 0.50
+Perna esquerda: 1.11
+Perna direita: 1.17
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.11
+Braço direito: 0.49
+Perna esquerda: 1.11
+Perna direita: 1.16
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.11
+Braço direito: 0.49
+Perna esquerda: 1.11
+Perna direita: 1.16
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.10
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.14
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.10
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.14
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.09
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.09
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.10
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.12
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.10
+Braço direito: 0.49
+Perna esquerda: 1.10
+Perna direita: 1.12
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.08
+Braço direito: 0.49
+Perna esquerda: 1.11
+Perna direita: 1.12
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.08
+Braço direito: 0.49
+Perna esquerda: 1.11
+Perna direita: 1.12
+Largura dos ombros: 0.32
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.10
+Braço direito: 0.49
+Perna esquerda: 1.11
+Perna direita: 1.16
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.10
+Braço direito: 0.49
+Perna esquerda: 1.11
+Perna direita: 1.16
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.15
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.15
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.15
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.15
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.13
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.13
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.13
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.13
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.17
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.11
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.17
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.11
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.16
+Perna direita: 1.10
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.16
+Perna direita: 1.10
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.11
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.10
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.11
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.10
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.14
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.11
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.14
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.11
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.11
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.11
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.13
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.14
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.13
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.14
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.12
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.10
+Largura dos ombros: 0.33
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.12
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.10
+Largura dos ombros: 0.33
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.11
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.10
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.11
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.10
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.13
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.13
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.18
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.13
+Largura dos ombros: 0.32
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.18
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.13
+Largura dos ombros: 0.32
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.14
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.13
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.14
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.13
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 1.03
+Braço direito: 0.50
+Perna esquerda: 1.12
+Perna direita: 1.09
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 1.03
+Braço direito: 0.50
+Perna esquerda: 1.12
+Perna direita: 1.09
+Largura dos ombros: 0.31
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 1.09
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.09
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 1.09
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.09
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.09
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.10
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.09
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.10
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.11
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.11
+Largura dos ombros: 0.29
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.11
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.11
+Largura dos ombros: 0.29
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.09
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.11
+Largura dos ombros: 0.29
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.09
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.11
+Largura dos ombros: 0.29
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.12
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.12
+Largura dos ombros: 0.29
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.12
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.12
+Largura dos ombros: 0.29
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.12
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.12
+Largura dos ombros: 0.28
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 1.12
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.12
+Largura dos ombros: 0.28
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.08
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.11
+Largura dos ombros: 0.29
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.08
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.11
+Largura dos ombros: 0.29
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.09
+Braço direito: 0.50
+Perna esquerda: 1.14
+Perna direita: 1.12
+Largura dos ombros: 0.29
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.09
+Braço direito: 0.50
+Perna esquerda: 1.14
+Perna direita: 1.12
+Largura dos ombros: 0.29
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.14
+Braço direito: 0.51
+Perna esquerda: 1.13
+Perna direita: 1.17
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.14
+Braço direito: 0.51
+Perna esquerda: 1.13
+Perna direita: 1.17
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.17
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.17
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.14
+Perna direita: 1.15
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.13
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.14
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.13
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.14
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.13
+Braço direito: 0.50
+Perna esquerda: 1.16
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.13
+Braço direito: 0.50
+Perna esquerda: 1.16
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.20
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.20
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.18
+Perna direita: 1.18
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.18
+Perna direita: 1.18
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.18
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.18
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.17
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.17
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.18
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.18
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.17
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.17
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.19
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.14
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.19
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.14
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.22
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.22
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.15
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.21
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.15
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.21
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.16
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.13
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.16
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.13
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.12
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.12
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.12
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.12
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.14
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.14
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.16
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.13
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.16
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.13
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.15
+Braço direito: 0.49
+Perna esquerda: 1.20
+Perna direita: 1.14
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.15
+Braço direito: 0.49
+Perna esquerda: 1.20
+Perna direita: 1.14
+Largura dos ombros: 0.29
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.14
+Braço direito: 0.49
+Perna esquerda: 1.19
+Perna direita: 1.15
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.14
+Braço direito: 0.49
+Perna esquerda: 1.19
+Perna direita: 1.15
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.16
+Braço direito: 0.48
+Perna esquerda: 1.17
+Perna direita: 1.18
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.16
+Braço direito: 0.48
+Perna esquerda: 1.17
+Perna direita: 1.18
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.14
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.14
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.15
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.15
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.17
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.12
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.14
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.12
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.14
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.12
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.12
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.30
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.16
+Braço direito: 0.47
+Perna esquerda: 1.16
+Perna direita: 1.23
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.16
+Braço direito: 0.47
+Perna esquerda: 1.16
+Perna direita: 1.23
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.13
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.20
+Largura dos ombros: 0.32
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.13
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.20
+Largura dos ombros: 0.32
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.15
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.14
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.15
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.14
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.17
+Largura dos ombros: 0.32
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.17
+Largura dos ombros: 0.32
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.19
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.14
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.19
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 1.11
+Braço direito: 0.48
+Perna esquerda: 1.17
+Perna direita: 1.21
+Largura dos ombros: 0.33
+Tronco: 0.84
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 1.11
+Braço direito: 0.48
+Perna esquerda: 1.17
+Perna direita: 1.21
+Largura dos ombros: 0.33
+Tronco: 0.84
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.12
+Braço direito: 0.48
+Perna esquerda: 1.19
+Perna direita: 1.20
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.12
+Braço direito: 0.48
+Perna esquerda: 1.19
+Perna direita: 1.20
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.41
+Braço esquerdo: 1.12
+Braço direito: 0.47
+Perna esquerda: 1.18
+Perna direita: 1.26
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.41
+Braço esquerdo: 1.12
+Braço direito: 0.47
+Perna esquerda: 1.18
+Perna direita: 1.26
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.12
+Braço direito: 0.48
+Perna esquerda: 1.17
+Perna direita: 1.20
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.12
+Braço direito: 0.48
+Perna esquerda: 1.17
+Perna direita: 1.20
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.12
+Braço direito: 0.48
+Perna esquerda: 1.18
+Perna direita: 1.25
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.12
+Braço direito: 0.48
+Perna esquerda: 1.18
+Perna direita: 1.25
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.41
+Braço esquerdo: 1.06
+Braço direito: 0.48
+Perna esquerda: 1.19
+Perna direita: 1.25
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.41
+Braço esquerdo: 1.06
+Braço direito: 0.48
+Perna esquerda: 1.19
+Perna direita: 1.25
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.04
+Braço direito: 0.47
+Perna esquerda: 1.20
+Perna direita: 1.25
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.04
+Braço direito: 0.47
+Perna esquerda: 1.20
+Perna direita: 1.25
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.42
+Braço esquerdo: 1.09
+Braço direito: 0.48
+Perna esquerda: 1.20
+Perna direita: 1.26
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.42
+Braço esquerdo: 1.09
+Braço direito: 0.48
+Perna esquerda: 1.20
+Perna direita: 1.26
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.47
+Braço esquerdo: 1.11
+Braço direito: 0.47
+Perna esquerda: 1.20
+Perna direita: 1.32
+Largura dos ombros: 0.32
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.47
+Braço esquerdo: 1.11
+Braço direito: 0.47
+Perna esquerda: 1.20
+Perna direita: 1.32
+Largura dos ombros: 0.32
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.43
+Braço esquerdo: 1.14
+Braço direito: 0.46
+Perna esquerda: 1.19
+Perna direita: 1.28
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.43
+Braço esquerdo: 1.14
+Braço direito: 0.46
+Perna esquerda: 1.19
+Perna direita: 1.28
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.44
+Braço esquerdo: 1.04
+Braço direito: 0.47
+Perna esquerda: 1.18
+Perna direita: 1.29
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.44
+Braço esquerdo: 1.04
+Braço direito: 0.47
+Perna esquerda: 1.18
+Perna direita: 1.29
+Largura dos ombros: 0.32
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.43
+Braço esquerdo: 0.99
+Braço direito: 0.47
+Perna esquerda: 1.18
+Perna direita: 1.28
+Largura dos ombros: 0.32
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.43
+Braço esquerdo: 0.99
+Braço direito: 0.47
+Perna esquerda: 1.18
+Perna direita: 1.28
+Largura dos ombros: 0.32
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 1.05
+Braço direito: 0.47
+Perna esquerda: 1.18
+Perna direita: 1.22
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 1.05
+Braço direito: 0.47
+Perna esquerda: 1.18
+Perna direita: 1.22
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.14
+Braço direito: 0.50
+Perna esquerda: 1.19
+Perna direita: 1.19
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.14
+Braço direito: 0.50
+Perna esquerda: 1.19
+Perna direita: 1.19
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 1.18
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.21
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 1.18
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.21
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.19
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.18
+Largura dos ombros: 0.30
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.19
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.18
+Largura dos ombros: 0.30
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.20
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.20
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.20
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.21
+Largura dos ombros: 0.30
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.20
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.21
+Largura dos ombros: 0.30
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.20
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.22
+Largura dos ombros: 0.29
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.20
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.22
+Largura dos ombros: 0.29
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.42
+Braço esquerdo: 1.21
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.28
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.42
+Braço esquerdo: 1.21
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.28
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.22
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.17
+Largura dos ombros: 0.28
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.22
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.17
+Largura dos ombros: 0.28
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.21
+Braço direito: 0.49
+Perna esquerda: 1.19
+Perna direita: 1.19
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.21
+Braço direito: 0.49
+Perna esquerda: 1.19
+Perna direita: 1.19
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.19
+Braço direito: 0.50
+Perna esquerda: 1.19
+Perna direita: 1.18
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.19
+Braço direito: 0.50
+Perna esquerda: 1.19
+Perna direita: 1.18
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.39
+Braço esquerdo: 1.19
+Braço direito: 0.50
+Perna esquerda: 1.19
+Perna direita: 1.23
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.39
+Braço esquerdo: 1.19
+Braço direito: 0.50
+Perna esquerda: 1.19
+Perna direita: 1.23
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.19
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.23
+Largura dos ombros: 0.30
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.19
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.23
+Largura dos ombros: 0.30
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.17
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.23
+Largura dos ombros: 0.31
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.17
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.23
+Largura dos ombros: 0.31
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.20
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.20
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.39
+Braço esquerdo: 1.19
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.22
+Largura dos ombros: 0.32
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.39
+Braço esquerdo: 1.19
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.22
+Largura dos ombros: 0.32
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.19
+Braço direito: 0.48
+Perna esquerda: 1.19
+Perna direita: 1.23
+Largura dos ombros: 0.32
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.19
+Braço direito: 0.48
+Perna esquerda: 1.19
+Perna direita: 1.23
+Largura dos ombros: 0.32
+Tronco: 0.83
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.18
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.20
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.18
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.20
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.18
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.20
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.18
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.20
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.15
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.15
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.19
+Largura dos ombros: 0.30
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.44
+Braço esquerdo: 1.16
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.30
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.44
+Braço esquerdo: 1.16
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.30
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 1.16
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.23
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.38
+Braço esquerdo: 1.16
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.23
+Largura dos ombros: 0.31
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.14
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.26
+Largura dos ombros: 0.30
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.40
+Braço esquerdo: 1.14
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.26
+Largura dos ombros: 0.30
+Tronco: 0.82
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.13
+Braço direito: 0.50
+Perna esquerda: 1.16
+Perna direita: 1.18
+Largura dos ombros: 0.29
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.13
+Braço direito: 0.50
+Perna esquerda: 1.16
+Perna direita: 1.18
+Largura dos ombros: 0.29
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.14
+Perna direita: 1.18
+Largura dos ombros: 0.29
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.15
+Braço direito: 0.50
+Perna esquerda: 1.14
+Perna direita: 1.18
+Largura dos ombros: 0.29
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.16
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.16
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.21
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.17
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.21
+Largura dos ombros: 0.29
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.16
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.20
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.16
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.20
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.17
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.20
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.17
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.20
+Largura dos ombros: 0.30
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.16
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.21
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.35
+Braço esquerdo: 1.16
+Braço direito: 0.50
+Perna esquerda: 1.15
+Perna direita: 1.21
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.13
+Braço direito: 0.50
+Perna esquerda: 1.19
+Perna direita: 1.22
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.37
+Braço esquerdo: 1.13
+Braço direito: 0.50
+Perna esquerda: 1.19
+Perna direita: 1.22
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.11
+Braço direito: 0.51
+Perna esquerda: 1.14
+Perna direita: 1.20
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.11
+Braço direito: 0.51
+Perna esquerda: 1.14
+Perna direita: 1.20
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.10
+Braço direito: 0.51
+Perna esquerda: 1.13
+Perna direita: 1.18
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.32
+Braço esquerdo: 1.10
+Braço direito: 0.51
+Perna esquerda: 1.13
+Perna direita: 1.18
+Largura dos ombros: 0.31
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.08
+Braço direito: 0.51
+Perna esquerda: 1.15
+Perna direita: 1.20
+Largura dos ombros: 0.32
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.08
+Braço direito: 0.51
+Perna esquerda: 1.15
+Perna direita: 1.20
+Largura dos ombros: 0.32
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.09
+Braço direito: 0.49
+Perna esquerda: 1.19
+Perna direita: 1.16
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.31
+Braço esquerdo: 1.09
+Braço direito: 0.49
+Perna esquerda: 1.19
+Perna direita: 1.16
+Largura dos ombros: 0.31
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.11
+Braço direito: 0.48
+Perna esquerda: 1.18
+Perna direita: 1.21
+Largura dos ombros: 0.32
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.36
+Braço esquerdo: 1.11
+Braço direito: 0.48
+Perna esquerda: 1.18
+Perna direita: 1.21
+Largura dos ombros: 0.32
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.11
+Braço direito: 0.48
+Perna esquerda: 1.18
+Perna direita: 1.20
+Largura dos ombros: 0.33
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.11
+Braço direito: 0.48
+Perna esquerda: 1.18
+Perna direita: 1.20
+Largura dos ombros: 0.33
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.10
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.34
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.33
+Braço esquerdo: 1.10
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.19
+Largura dos ombros: 0.34
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.00
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.00
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.94
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.16
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.94
+Braço direito: 0.49
+Perna esquerda: 1.14
+Perna direita: 1.16
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.01
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.16
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.30
+Braço esquerdo: 1.01
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.16
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.95
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.95
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 0.95
+Braço direito: 0.48
+Perna esquerda: 1.17
+Perna direita: 1.14
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 0.95
+Braço direito: 0.48
+Perna esquerda: 1.17
+Perna direita: 1.14
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.96
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.96
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.99
+Braço direito: 0.48
+Perna esquerda: 1.17
+Perna direita: 1.16
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.99
+Braço direito: 0.48
+Perna esquerda: 1.17
+Perna direita: 1.16
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.05
+Braço direito: 0.48
+Perna esquerda: 1.18
+Perna direita: 1.23
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.34
+Braço esquerdo: 1.05
+Braço direito: 0.48
+Perna esquerda: 1.18
+Perna direita: 1.23
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.99
+Braço direito: 0.48
+Perna esquerda: 1.18
+Perna direita: 1.18
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 0.99
+Braço direito: 0.48
+Perna esquerda: 1.18
+Perna direita: 1.18
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 0.98
+Braço direito: 0.47
+Perna esquerda: 1.15
+Perna direita: 1.14
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.25
+Braço esquerdo: 0.98
+Braço direito: 0.47
+Perna esquerda: 1.15
+Perna direita: 1.14
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.00
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.12
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.00
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.12
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 1.00
+Braço direito: 0.47
+Perna esquerda: 1.14
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 1.00
+Braço direito: 0.47
+Perna esquerda: 1.14
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 0.96
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 0.96
+Braço direito: 0.48
+Perna esquerda: 1.14
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.20
+Braço esquerdo: 0.95
+Braço direito: 0.48
+Perna esquerda: 1.12
+Perna direita: 1.10
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.20
+Braço esquerdo: 0.95
+Braço direito: 0.48
+Perna esquerda: 1.12
+Perna direita: 1.10
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.20
+Braço esquerdo: 0.97
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.11
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.20
+Braço esquerdo: 0.97
+Braço direito: 0.49
+Perna esquerda: 1.13
+Perna direita: 1.11
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 0.97
+Braço direito: 0.50
+Perna esquerda: 1.13
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 0.97
+Braço direito: 0.50
+Perna esquerda: 1.13
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 0.97
+Braço direito: 0.50
+Perna esquerda: 1.13
+Perna direita: 1.12
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 0.97
+Braço direito: 0.50
+Perna esquerda: 1.13
+Perna direita: 1.12
+Largura dos ombros: 0.31
+Tronco: 0.77
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.96
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.18
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 0.96
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.18
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.01
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.01
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.15
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.20
+Braço esquerdo: 0.92
+Braço direito: 0.48
+Perna esquerda: 1.11
+Perna direita: 1.10
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.20
+Braço esquerdo: 0.92
+Braço direito: 0.48
+Perna esquerda: 1.11
+Perna direita: 1.10
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.20
+Braço esquerdo: 0.98
+Braço direito: 0.48
+Perna esquerda: 1.12
+Perna direita: 1.11
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.20
+Braço esquerdo: 0.98
+Braço direito: 0.48
+Perna esquerda: 1.12
+Perna direita: 1.11
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.01
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.01
+Braço direito: 0.48
+Perna esquerda: 1.16
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.00
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.21
+Braço esquerdo: 1.00
+Braço direito: 0.49
+Perna esquerda: 1.15
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.02
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.14
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.02
+Braço direito: 0.50
+Perna esquerda: 1.17
+Perna direita: 1.14
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.01
+Braço direito: 0.49
+Perna esquerda: 1.19
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.01
+Braço direito: 0.49
+Perna esquerda: 1.19
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 0.98
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 0.98
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.01
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.11
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.01
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.11
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.12
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.12
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.03
+Braço direito: 0.50
+Perna esquerda: 1.16
+Perna direita: 1.12
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.03
+Braço direito: 0.50
+Perna esquerda: 1.16
+Perna direita: 1.12
+Largura dos ombros: 0.34
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.19
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.24
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.19
+Perna direita: 1.13
+Largura dos ombros: 0.33
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.22
+Braço esquerdo: 1.02
+Braço direito: 0.49
+Perna esquerda: 1.16
+Perna direita: 1.11
+Largura dos ombros: 0.32
+Tronco: 0.78
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.04
+Braço direito: 0.49
+Perna esquerda: 1.20
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.26
+Braço esquerdo: 1.04
+Braço direito: 0.49
+Perna esquerda: 1.20
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.06
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.16
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.06
+Braço direito: 0.49
+Perna esquerda: 1.18
+Perna direita: 1.16
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.09
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.27
+Braço esquerdo: 1.09
+Braço direito: 0.49
+Perna esquerda: 1.17
+Perna direita: 1.15
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.02
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.29
+Braço esquerdo: 1.02
+Braço direito: 0.48
+Perna esquerda: 1.15
+Perna direita: 1.18
+Largura dos ombros: 0.33
+Tronco: 0.79
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.12
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.16
+Largura dos ombros: 0.36
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.28
+Braço esquerdo: 1.12
+Braço direito: 0.48
+Perna esquerda: 1.13
+Perna direita: 1.16
+Largura dos ombros: 0.36
+Tronco: 0.81
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.12
+Braço direito: 0.49
+Perna esquerda: 1.09
+Perna direita: 1.09
+Largura dos ombros: 0.33
+Tronco: 0.80
+
+Medidas capturadas:
+Peso: 81.0 kg
+Idade: 21 anos
+Altura: 2.23
+Braço esquerdo: 1.12
+Braço direito: 0.49
+Perna esquerda: 1.09
+Perna direita: 1.09
+Largura dos ombros: 0.33
+Tronco: 0.80
+
