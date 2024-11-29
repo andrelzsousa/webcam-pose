@@ -4,6 +4,7 @@ import numpy as np
 import tkinter as tk
 from tkinter import simpledialog
 from tkinter import messagebox
+from utils import load_last_measurements, execute_notebook
 
 # Função para calcular a distância entre dois landmarks
 def calculate_distance(p1, p2):
@@ -12,20 +13,17 @@ def calculate_distance(p1, p2):
 # Função para calcular medidas corporais
 def calculate_body_measurements(landmarks):
     measurements = {
-        'Altura': calculate_distance(landmarks[0], landmarks[32]),
-        'Braço esquerdo': calculate_distance(landmarks[11], landmarks[15]),
-        'Braço direito': calculate_distance(landmarks[12], landmarks[16]),
-        'Perna esquerda': calculate_distance(landmarks[23], landmarks[27]),
-        'Perna direita': calculate_distance(landmarks[24], landmarks[28]),
-        'Largura dos ombros': calculate_distance(landmarks[11], landmarks[12]),
-        'Tronco': calculate_distance(landmarks[11], landmarks[24])
+        'Altura': calculate_distance(landmarks[0], landmarks[32]) + 1.05,
+        'Braco esquerdo': calculate_distance(landmarks[11], landmarks[15]) + 0.52,
+        'Braco direito': calculate_distance(landmarks[12], landmarks[16]) + 0.52,
+        'Perna esquerda': calculate_distance(landmarks[23], landmarks[27]) + 0.56,
+        'Perna direita': calculate_distance(landmarks[24], landmarks[28]) + 0.56,
+        'Largura dos ombros': calculate_distance(landmarks[11], landmarks[12]) + 0.34,
+        'Tronco': calculate_distance(landmarks[11], landmarks[24])+ 0.4
     }
     return measurements
 
-# Função para verificar se a mão está fechadas 
 def is_hand_closed(hand_landmarks):
-    # Pontos chave: ponta dos dedos (4, 8, 12, 16, 20) e base do dedo 0 (pulso)
-    # Se todas as pontas dos dedos estão próximas do pulso, consideramos a mão fechada
     closed = calculate_distance(hand_landmarks[0], hand_landmarks[9]) < 0.2 
          
     return closed
@@ -61,17 +59,17 @@ def start_video(peso, idade):
             measurements = calculate_body_measurements(landmarks)
             
             # Exibe as medidas e informações na tela
-            y_offset = 30
+            y_offset = 35
             cv2.putText(frame, f"Peso: {peso:.1f} kg", (10, y_offset), 
-                        cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 255), 2)
-            y_offset += 30
+                        cv2.FONT_HERSHEY_SIMPLEX, 1.2, (255, 255, 255), 2)
+            y_offset += 35
             cv2.putText(frame, f"Idade: {idade} anos", (10, y_offset), 
-                        cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 255), 2)
-            y_offset += 30
+                        cv2.FONT_HERSHEY_SIMPLEX, 1.2, (255, 255, 255), 2)
+            y_offset += 35
             for name, value in measurements.items():
                 cv2.putText(frame, f"{name}: {value:.2f}", (10, y_offset), 
-                            cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 255), 2)
-                y_offset += 30
+                            cv2.FONT_HERSHEY_SIMPLEX, 1.2, (255, 255, 255), 2)
+                y_offset += 35
             
             # Verifica se há landmarks de mão e detecta o gesto de mão fechada
             if results_hands.multi_hand_landmarks:
@@ -82,15 +80,30 @@ def start_video(peso, idade):
                             file.write("Medidas capturadas:\n")
                             file.write(f"Peso: {peso:.1f} kg\n")
                             file.write(f"Idade: {idade} anos\n")
+                            print(f"peso: {peso}, idade: {idade} ")
                             for name, value in measurements.items():
                                 file.write(f"{name}: {value:.2f}\n")
+                                print(f"{name}: {value:.2f}\n")
                             file.write("\n")
+                            print("\n\n\n\n\n\n\n\n")
                         print("Medidas salvas no arquivo 'medidas_capturadas_ui.txt'")
                         # Desenha os landmarks da mão
                         mp_drawing.draw_landmarks(frame, hand_landmarks, mp_hands.HAND_CONNECTIONS)
         
         # Mostra o frame com informações
         cv2.imshow('Real-time Body Measurements', frame)
+
+        if cv2.waitKey(1) & 0xFF == ord('p'):
+          data = load_last_measurements("medidas_capturadas_ui.txt")
+          if data:
+              print(f"Dados carregados: Peso={data[0]}, Idade={data[1]}, Altura={data[2]}")
+              peso, idade, altura = data
+              print(f"Dados carregados: Peso={peso}, Idade={idade}, Altura={altura}")
+              execute_notebook(
+                  input_path="clothes.ipynb",
+                  output_path="output_clothes.ipynb",
+                  parameters={"peso": peso, "idade": idade, "altura": altura}
+        )
         
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
@@ -98,7 +111,6 @@ def start_video(peso, idade):
     cap.release()
     cv2.destroyAllWindows()
 
-# Configura a interface gráfica usando Tkinter
 def main():
     root = tk.Tk()
     root.withdraw()  # Oculta a janela principal

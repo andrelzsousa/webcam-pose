@@ -1,0 +1,2 @@
+Tamanho de roupa previsto: L
+Peso: 81.0, Idade: 21, Altura: 1.88
